@@ -4,6 +4,10 @@ Last updated: 2026-05-10
 
 TALIS is a Territorial Agricultural & Land Intelligence System proof of concept for public-sector investment planning teams. This frontend demonstrates the six-page decision workflow: discovering candidate territories, inspecting territory fundamentals, reviewing intelligence signals, assessing opportunity and risk, comparing investment decisions, and monitoring policy accountability. The PoC is fixture-backed, desktop-first, and intentionally scoped to frontend workflows plus local adapter contracts.
 
+## Live Demo
+
+The TALIS PoC website is available at https://talis-poc.vercel.app.
+
 ## Quick Start
 
 Prerequisites:
@@ -132,12 +136,3 @@ Production deployment should follow standard Next.js deployment practice, such a
 - Audit logging is a local stub.
 - Exported PDF reports do not embed interactive map imagery; templates use text/table summaries and footnotes.
 - Fixture values are representative planning data, not production investment advice.
-
-## Project Pointers
-
-- `../agent-guide/`: sprint planning and per-task implementation notes.
-- `../docs/`: source product documentation.
-- `../agent-guide/SPRINT-08-export-and-cross-cutting-polish/PERF_REPORT.md`: bundle and LCP measurements.
-- `../agent-guide/SPRINT-08-export-and-cross-cutting-polish/QA_CHECKLIST.md`: final QA findings.
-
-When behavior and docs disagree, inspect the current adapter and store implementations first, then reconcile with `agent-guide/`.
