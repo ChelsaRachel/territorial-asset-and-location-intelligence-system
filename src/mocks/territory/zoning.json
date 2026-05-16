@@ -1,0 +1,210 @@
+[
+  {
+    "wilayah_id": 3204170,
+    "zoning_compliance_score": 91,
+    "regulatory_flag": "BEBAS_INVESTASI",
+    "flag_color": "green",
+    "flag_detail": "Mayoritas kebun, sawah, dan koridor agrowisata konsisten dengan peruntukan budidaya; konflik utama berupa perluasan permukiman pada tepi kawasan konservasi.",
+    "luas_sesuai_ha": 3217,
+    "luas_konflik_ha": 318,
+    "luas_kawasan_lindung_ha": 0,
+    "luas_breakdown": {
+      "sesuai_ha": 3217,
+      "konflik_ha": 318,
+      "kawasan_lindung_ha": 0
+    },
+    "rdtr_available": true,
+    "implications": {
+      "investor": [
+        "Prioritaskan parsel pada zona budidaya pertanian dan agrowisata yang sudah konsisten dengan RTRW.",
+        "Verifikasi batas lahan yang berdekatan dengan konservasi sebelum akuisisi atau perluasan fasilitas wisata.",
+        "Gunakan konflik 318 ha sebagai daftar pengecualian awal saat menyusun pipeline tapak."
+      ],
+      "pejabat": [
+        "Pertahankan koridor budidaya produktif sebagai basis nilai tambah hortikultura dan kopi.",
+        "Perjelas batas permukiman tepi konservasi dalam pembaruan RDTR agar ekspansi tidak masuk area sensitif.",
+        "Sinkronkan layer RTRW dengan inventaris jalan pengumpan untuk prioritas APBD desa wisata."
+      ]
+    },
+    "map_layers": [
+      {
+        "id": "rtrw",
+        "label": "RTRW Resmi",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/3204170.geojson",
+        "style_property": "peruntukan",
+        "legend": [
+          { "value": "pertanian", "label": "Pertanian", "color": "#52B788" },
+          { "value": "permukiman", "label": "Permukiman", "color": "#B45309" },
+          { "value": "konservasi", "label": "Konservasi", "color": "#1B4332" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "actual_landcover",
+        "label": "Kondisi Aktual",
+        "type": "raster_proxy",
+        "geojson_path": "src/mocks/maps/zoning/3204170.geojson",
+        "style_property": "landcover",
+        "legend": [
+          { "value": "kebun", "label": "Kebun", "color": "#74C69D" },
+          { "value": "sawah", "label": "Sawah", "color": "#A7C957" },
+          { "value": "permukiman", "label": "Terbangun", "color": "#D97706" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "kawasan_lindung",
+        "label": "Kawasan Lindung Indikatif",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/3204170.geojson",
+        "style_property": "protection",
+        "legend": [
+          { "value": "konservasi_indikatif", "label": "Buffer konservasi", "color": "#B42318" }
+        ],
+        "initially_visible": false
+      }
+    ],
+    "geojson_overlay_path": "src/mocks/maps/zoning/3204170.geojson",
+    "last_computed_at": "2026-05-05T02:30:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "zoning_compliance_score": 60,
+    "regulatory_flag": "KONFLIK_REGULASI",
+    "flag_color": "amber",
+    "flag_detail": "Koridor komersial-hospitality sudah padat; beberapa kantong akomodasi bersinggungan dengan pengendalian sempadan pantai, drainase, dan pembatasan intensitas bangunan.",
+    "luas_sesuai_ha": 159,
+    "luas_konflik_ha": 106,
+    "luas_kawasan_lindung_ha": 0,
+    "luas_breakdown": {
+      "sesuai_ha": 159,
+      "konflik_ha": 106,
+      "kawasan_lindung_ha": 0
+    },
+    "rdtr_available": true,
+    "implications": {
+      "investor": [
+        "Lanjutkan hanya untuk tapak yang memiliki kesesuaian RDTR, akses limbah, dan bukti pengendalian sempadan.",
+        "Hindari parsel dengan intensitas bangunan melebihi koridor komersial yang telah dikendalikan.",
+        "Masukkan biaya mitigasi drainase dan manajemen lalu lintas ke dalam model kelayakan hospitality."
+      ],
+      "pejabat": [
+        "Perkuat pengawasan intensitas bangunan pada kantong akomodasi padat dan koridor sempadan.",
+        "Gunakan konflik 106 ha sebagai basis penertiban perizinan serta audit drainase pariwisata.",
+        "Prioritaskan konsolidasi data RDTR, izin bangunan, dan daya dukung utilitas sebelum membuka izin baru."
+      ]
+    },
+    "map_layers": [
+      {
+        "id": "rtrw",
+        "label": "RTRW/RDTR Resmi",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/5103060.geojson",
+        "style_property": "peruntukan",
+        "legend": [
+          { "value": "pariwisata", "label": "Pariwisata", "color": "#52B788" },
+          { "value": "permukiman", "label": "Permukiman", "color": "#B45309" },
+          { "value": "sempadan", "label": "Sempadan", "color": "#1E40AF" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "actual_landcover",
+        "label": "Kondisi Aktual",
+        "type": "raster_proxy",
+        "geojson_path": "src/mocks/maps/zoning/5103060.geojson",
+        "style_property": "landcover",
+        "legend": [
+          { "value": "terbangun_padat", "label": "Terbangun padat", "color": "#D97706" },
+          { "value": "ruang_terbuka", "label": "Ruang terbuka", "color": "#74C69D" },
+          { "value": "pantai", "label": "Pantai", "color": "#60A5FA" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "kawasan_lindung",
+        "label": "Sempadan Pantai/Drainase",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/5103060.geojson",
+        "style_property": "protection",
+        "legend": [
+          { "value": "sempadan_pantai", "label": "Sempadan pantai", "color": "#B42318" },
+          { "value": "drainase", "label": "Koridor drainase", "color": "#1E40AF" }
+        ],
+        "initially_visible": false
+      }
+    ],
+    "geojson_overlay_path": "src/mocks/maps/zoning/5103060.geojson",
+    "last_computed_at": "2026-05-05T02:30:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "zoning_compliance_score": 84,
+    "regulatory_flag": "BEBAS_INVESTASI",
+    "flag_color": "green",
+    "flag_detail": "16% lahan kebun yang zona RTRW-nya kawasan hutan produksi terbatas perlu konversi formal jika dikembangkan ke hospitality.",
+    "luas_sesuai_ha": 2562,
+    "luas_konflik_ha": 488,
+    "luas_kawasan_lindung_ha": 0,
+    "luas_breakdown": {
+      "sesuai_ha": 2562,
+      "konflik_ha": 488,
+      "kawasan_lindung_ha": 0
+    },
+    "rdtr_available": false,
+    "implications": {
+      "investor": [
+        "Verifikasi sertifikat tanah dan kesesuaian zona melalui ATR/BPN sebelum negosiasi harga final.",
+        "Untuk hospitality, pilih parsel di zona permukiman atau budidaya eksisting dan hindari area hutan produksi terbatas.",
+        "Masukkan waktu konversi formal sebagai risiko jadwal untuk tapak yang bersinggungan dengan 488 ha konflik."
+      ],
+      "pejabat": [
+        "RDTR digital belum tersedia sehingga proxy RTRW perlu dikunci sebagai prioritas pemutakhiran data tata ruang.",
+        "Konflik 488 ha dapat menjadi daftar awal legalisasi zonasi agrowisata atau penertiban pemanfaatan lahan.",
+        "Sinkronkan Bappeda, ATR/BPN, dan dinas pariwisata untuk membedakan kebun produktif, permukiman, dan hutan produksi terbatas."
+      ]
+    },
+    "map_layers": [
+      {
+        "id": "rtrw",
+        "label": "RTRW Resmi",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/1206090.geojson",
+        "style_property": "peruntukan",
+        "legend": [
+          { "value": "pertanian", "label": "Pertanian", "color": "#52B788" },
+          { "value": "permukiman", "label": "Permukiman", "color": "#B45309" },
+          { "value": "hutan_produksi_terbatas", "label": "Hutan produksi terbatas", "color": "#1B4332" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "actual_landcover",
+        "label": "Kondisi Aktual",
+        "type": "raster_proxy",
+        "geojson_path": "src/mocks/maps/zoning/1206090.geojson",
+        "style_property": "landcover",
+        "legend": [
+          { "value": "kebun", "label": "Kebun", "color": "#74C69D" },
+          { "value": "hutan", "label": "Hutan", "color": "#2D6A4F" },
+          { "value": "permukiman", "label": "Permukiman", "color": "#D97706" }
+        ],
+        "initially_visible": true
+      },
+      {
+        "id": "kawasan_lindung",
+        "label": "Kawasan Lindung Indikatif",
+        "type": "polygon",
+        "geojson_path": "src/mocks/maps/zoning/1206090.geojson",
+        "style_property": "protection",
+        "legend": [
+          { "value": "hutan_lindung_indikatif", "label": "Buffer lereng", "color": "#B42318" }
+        ],
+        "initially_visible": false
+      }
+    ],
+    "geojson_overlay_path": "src/mocks/maps/zoning/1206090.geojson",
+    "last_computed_at": "2026-05-05T02:30:00Z"
+  }
+]

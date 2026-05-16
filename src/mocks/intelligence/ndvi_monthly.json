@@ -1,0 +1,290 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 5,
+    "ndvi_value": 0.69,
+    "baseline_5yr": 0.67,
+    "delta_from_baseline": 3.0
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 6,
+    "ndvi_value": 0.72,
+    "baseline_5yr": 0.69,
+    "delta_from_baseline": 4.3
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 7,
+    "ndvi_value": 0.74,
+    "baseline_5yr": 0.71,
+    "delta_from_baseline": 4.2
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 8,
+    "ndvi_value": 0.73,
+    "baseline_5yr": 0.70,
+    "delta_from_baseline": 4.3
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 9,
+    "ndvi_value": 0.71,
+    "baseline_5yr": 0.69,
+    "delta_from_baseline": 2.9
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 10,
+    "ndvi_value": 0.70,
+    "baseline_5yr": 0.68,
+    "delta_from_baseline": 2.9
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 11,
+    "ndvi_value": 0.75,
+    "baseline_5yr": 0.72,
+    "delta_from_baseline": 4.2
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2025,
+    "month": 12,
+    "ndvi_value": 0.77,
+    "baseline_5yr": 0.74,
+    "delta_from_baseline": 4.1
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2026,
+    "month": 1,
+    "ndvi_value": 0.72,
+    "baseline_5yr": 0.70,
+    "delta_from_baseline": 2.9
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2026,
+    "month": 2,
+    "ndvi_value": 0.74,
+    "baseline_5yr": 0.72,
+    "delta_from_baseline": 2.8
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2026,
+    "month": 3,
+    "ndvi_value": 0.71,
+    "baseline_5yr": 0.73,
+    "delta_from_baseline": -2.7
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2026,
+    "month": 4,
+    "ndvi_value": 0.68,
+    "baseline_5yr": 0.71,
+    "delta_from_baseline": -4.2
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 5,
+    "ndvi_value": 0.63,
+    "baseline_5yr": 0.64,
+    "delta_from_baseline": -1.6
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 6,
+    "ndvi_value": 0.65,
+    "baseline_5yr": 0.65,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 7,
+    "ndvi_value": 0.67,
+    "baseline_5yr": 0.66,
+    "delta_from_baseline": 1.5
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 8,
+    "ndvi_value": 0.66,
+    "baseline_5yr": 0.66,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 9,
+    "ndvi_value": 0.64,
+    "baseline_5yr": 0.64,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 10,
+    "ndvi_value": 0.63,
+    "baseline_5yr": 0.63,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 11,
+    "ndvi_value": 0.68,
+    "baseline_5yr": 0.67,
+    "delta_from_baseline": 1.5
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2025,
+    "month": 12,
+    "ndvi_value": 0.70,
+    "baseline_5yr": 0.69,
+    "delta_from_baseline": 1.4
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2026,
+    "month": 1,
+    "ndvi_value": 0.67,
+    "baseline_5yr": 0.67,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2026,
+    "month": 2,
+    "ndvi_value": 0.65,
+    "baseline_5yr": 0.66,
+    "delta_from_baseline": -1.5
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2026,
+    "month": 3,
+    "ndvi_value": 0.64,
+    "baseline_5yr": 0.65,
+    "delta_from_baseline": -1.5
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2026,
+    "month": 4,
+    "ndvi_value": 0.62,
+    "baseline_5yr": 0.63,
+    "delta_from_baseline": -1.6
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 5,
+    "ndvi_value": 0.38,
+    "baseline_5yr": 0.37,
+    "delta_from_baseline": 2.7
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 6,
+    "ndvi_value": 0.36,
+    "baseline_5yr": 0.36,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 7,
+    "ndvi_value": 0.35,
+    "baseline_5yr": 0.35,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 8,
+    "ndvi_value": 0.33,
+    "baseline_5yr": 0.34,
+    "delta_from_baseline": -2.9
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 9,
+    "ndvi_value": 0.34,
+    "baseline_5yr": 0.34,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 10,
+    "ndvi_value": 0.36,
+    "baseline_5yr": 0.35,
+    "delta_from_baseline": 2.9
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 11,
+    "ndvi_value": 0.40,
+    "baseline_5yr": 0.39,
+    "delta_from_baseline": 2.6
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2025,
+    "month": 12,
+    "ndvi_value": 0.42,
+    "baseline_5yr": 0.40,
+    "delta_from_baseline": 5.0
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2026,
+    "month": 1,
+    "ndvi_value": 0.39,
+    "baseline_5yr": 0.38,
+    "delta_from_baseline": 2.6
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2026,
+    "month": 2,
+    "ndvi_value": 0.38,
+    "baseline_5yr": 0.38,
+    "delta_from_baseline": 0.0
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2026,
+    "month": 3,
+    "ndvi_value": 0.36,
+    "baseline_5yr": 0.37,
+    "delta_from_baseline": -2.7
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2026,
+    "month": 4,
+    "ndvi_value": 0.35,
+    "baseline_5yr": 0.36,
+    "delta_from_baseline": -2.8
+  }
+]

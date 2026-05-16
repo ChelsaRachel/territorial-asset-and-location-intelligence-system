@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_zoning_1206090",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "pertanian",
+        "label": "RTRW Pertanian Hortikultura",
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.462, 3.165],
+            [98.512, 3.162],
+            [98.522, 3.205],
+            [98.471, 3.216],
+            [98.462, 3.165]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "permukiman",
+        "label": "RTRW Permukiman Berastagi",
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.497, 3.18],
+            [98.537, 3.179],
+            [98.54, 3.21],
+            [98.503, 3.219],
+            [98.497, 3.18]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "hutan_produksi_terbatas",
+        "label": "RTRW Hutan Produksi Terbatas",
+        "color": "#1B4332"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.445, 3.205],
+            [98.488, 3.216],
+            [98.484, 3.248],
+            [98.438, 3.239],
+            [98.445, 3.205]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "actual_landcover",
+        "landcover": "kebun",
+        "label": "Aktual Kebun Campuran",
+        "color": "#74C69D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.455, 3.171],
+            [98.504, 3.171],
+            [98.514, 3.224],
+            [98.452, 3.229],
+            [98.455, 3.171]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "actual_landcover",
+        "landcover": "hutan",
+        "label": "Aktual Hutan Lereng",
+        "color": "#2D6A4F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.438, 3.222],
+            [98.492, 3.23],
+            [98.491, 3.256],
+            [98.432, 3.248],
+            [98.438, 3.222]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "kawasan_lindung",
+        "protection": "hutan_lindung_indikatif",
+        "label": "Referensi Kawasan Lindung Lereng",
+        "color": "#B42318"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [98.433, 3.233],
+            [98.471, 3.243],
+            [98.465, 3.262],
+            [98.427, 3.253],
+            [98.433, 3.233]
+          ]
+        ]
+      }
+    }
+  ]
+}

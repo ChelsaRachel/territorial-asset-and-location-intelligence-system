@@ -1,0 +1,80 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "quadrants": {
+      "lahan": {
+        "tier": "Baik",
+        "score": 82,
+        "catatan": "Land suitability tinggi untuk hortikultura; kontur berbukit cocok stroberi dan jeruk"
+      },
+      "pasar": {
+        "tier": "Cukup",
+        "score": 71,
+        "catatan": "Akses Pasar Buah Berastagi aktif; demand absorpsi positif namun cold chain terbatas"
+      },
+      "infrastruktur": {
+        "tier": "Cukup",
+        "score": 76,
+        "catatan": "Air bersih perlu upgrade pipanisasi 15 desa; 4G terbatas di koridor Naman Teran"
+      },
+      "regulasi": {
+        "tier": "Baik",
+        "score": 84,
+        "catatan": "Bebas investasi, RTRW aman; sertifikat tanah mayoritas sudah SHGU/HGB"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "quadrants": {
+      "lahan": {
+        "tier": "Baik",
+        "score": 82,
+        "catatan": "Tanah vulkanik subur; kontur Ciwidey cocok untuk stroberi, teh, dan agrowisata"
+      },
+      "pasar": {
+        "tier": "Cukup",
+        "score": 68,
+        "catatan": "Demand wisata Bandung–Ciwidey tinggi; akses hortikultura ke Pasar Induk Caringin via Tol Soroja"
+      },
+      "infrastruktur": {
+        "tier": "Baik",
+        "score": 78,
+        "catatan": "Jalan provinsi mantap; Tol Soroja mempercepat logistik; utilitas dasar memadai"
+      },
+      "regulasi": {
+        "tier": "Baik",
+        "score": 91,
+        "catatan": "RTRW Kabupaten Bandung pro-investasi; RDTR tersedia; Bebas investasi di mayoritas sub-blok"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "quadrants": {
+      "lahan": {
+        "tier": "Baik",
+        "score": 88,
+        "catatan": "Lokasi pantai premium; ketersediaan lahan resort masih ada di sisi timur Jalan Sunset"
+      },
+      "pasar": {
+        "tier": "Baik",
+        "score": 86,
+        "catatan": "Permintaan wisatawan internasional tertinggi di 3 profil; demand villa dan F&B sangat tinggi"
+      },
+      "infrastruktur": {
+        "tier": "Baik",
+        "score": 98,
+        "catatan": "Infrastruktur wisata Badung terlengkap; jalan, listrik, air, dan telekomunikasi premium"
+      },
+      "regulasi": {
+        "tier": "Cukup",
+        "score": 60,
+        "catatan": "KONFLIK_REGULASI aktif; IMB dan sempadan pantai perlu klarifikasi dengan Dinas PUPR Badung"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  }
+]

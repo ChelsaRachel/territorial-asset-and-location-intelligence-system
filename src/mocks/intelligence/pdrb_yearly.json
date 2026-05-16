@@ -1,0 +1,182 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "year": 2020,
+    "pdrb_total_triliyun": 10.8,
+    "yoy_growth_pct": -1.2,
+    "sektor_breakdown": {
+      "pertanian": 4.6,
+      "pariwisata": 2.1,
+      "perdagangan": 2.4,
+      "lainnya": 1.7
+    }
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2021,
+    "pdrb_total_triliyun": 11.2,
+    "yoy_growth_pct": 3.7,
+    "sektor_breakdown": {
+      "pertanian": 4.8,
+      "pariwisata": 2.3,
+      "perdagangan": 2.5,
+      "lainnya": 1.6
+    }
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2022,
+    "pdrb_total_triliyun": 12.3,
+    "yoy_growth_pct": 9.8,
+    "sektor_breakdown": {
+      "pertanian": 5.2,
+      "pariwisata": 2.8,
+      "perdagangan": 2.8,
+      "lainnya": 1.5
+    }
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2023,
+    "pdrb_total_triliyun": 13.6,
+    "yoy_growth_pct": 10.6,
+    "sektor_breakdown": {
+      "pertanian": 5.6,
+      "pariwisata": 3.3,
+      "perdagangan": 3.1,
+      "lainnya": 1.6
+    }
+  },
+  {
+    "wilayah_id": 1206090,
+    "year": 2024,
+    "pdrb_total_triliyun": 15.1,
+    "yoy_growth_pct": 11.0,
+    "sektor_breakdown": {
+      "pertanian": 6.1,
+      "pariwisata": 3.9,
+      "perdagangan": 3.4,
+      "lainnya": 1.7
+    }
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2020,
+    "pdrb_total_triliyun": 82.4,
+    "yoy_growth_pct": -3.1,
+    "sektor_breakdown": {
+      "pertanian": 18.2,
+      "industri_pengolahan": 32.1,
+      "perdagangan": 20.5,
+      "lainnya": 11.6
+    }
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2021,
+    "pdrb_total_triliyun": 86.8,
+    "yoy_growth_pct": 5.3,
+    "sektor_breakdown": {
+      "pertanian": 19.0,
+      "industri_pengolahan": 33.8,
+      "perdagangan": 21.6,
+      "lainnya": 12.4
+    }
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2022,
+    "pdrb_total_triliyun": 95.2,
+    "yoy_growth_pct": 9.7,
+    "sektor_breakdown": {
+      "pertanian": 20.8,
+      "industri_pengolahan": 37.0,
+      "perdagangan": 23.8,
+      "lainnya": 13.6
+    }
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2023,
+    "pdrb_total_triliyun": 104.7,
+    "yoy_growth_pct": 10.0,
+    "sektor_breakdown": {
+      "pertanian": 22.5,
+      "industri_pengolahan": 40.8,
+      "perdagangan": 26.4,
+      "lainnya": 15.0
+    }
+  },
+  {
+    "wilayah_id": 3204170,
+    "year": 2024,
+    "pdrb_total_triliyun": 115.6,
+    "yoy_growth_pct": 10.4,
+    "sektor_breakdown": {
+      "pertanian": 24.6,
+      "industri_pengolahan": 45.0,
+      "perdagangan": 29.2,
+      "lainnya": 16.8
+    }
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2020,
+    "pdrb_total_triliyun": 18.6,
+    "yoy_growth_pct": -38.0,
+    "sektor_breakdown": {
+      "pariwisata_akomodasi": 9.8,
+      "perdagangan_ritel": 5.2,
+      "properti": 2.4,
+      "lainnya": 1.2
+    }
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2021,
+    "pdrb_total_triliyun": 24.2,
+    "yoy_growth_pct": 30.1,
+    "sektor_breakdown": {
+      "pariwisata_akomodasi": 13.1,
+      "perdagangan_ritel": 6.5,
+      "properti": 3.1,
+      "lainnya": 1.5
+    }
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2022,
+    "pdrb_total_triliyun": 46.8,
+    "yoy_growth_pct": 93.4,
+    "sektor_breakdown": {
+      "pariwisata_akomodasi": 26.2,
+      "perdagangan_ritel": 11.8,
+      "properti": 5.8,
+      "lainnya": 3.0
+    }
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2023,
+    "pdrb_total_triliyun": 58.9,
+    "yoy_growth_pct": 25.9,
+    "sektor_breakdown": {
+      "pariwisata_akomodasi": 33.8,
+      "perdagangan_ritel": 14.2,
+      "properti": 7.2,
+      "lainnya": 3.7
+    }
+  },
+  {
+    "wilayah_id": 5103060,
+    "year": 2024,
+    "pdrb_total_triliyun": 63.0,
+    "yoy_growth_pct": 6.9,
+    "sektor_breakdown": {
+      "pariwisata_akomodasi": 36.2,
+      "perdagangan_ritel": 15.1,
+      "properti": 7.9,
+      "lainnya": 3.8
+    }
+  }
+]

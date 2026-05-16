@@ -1,0 +1,157 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "land_banking_score": 86,
+    "klasifikasi": "Peluang_Tinggi",
+    "breakdown": {
+      "apresiasi": { "score": 84, "weight": 0.30 },
+      "pipeline": { "score": 92, "weight": 0.25 },
+      "cagr": { "score": 76, "weight": 0.25 },
+      "emerging": { "score": 88, "weight": 0.20 }
+    },
+    "return_estimate": {
+      "1yr": {
+        "konservatif": 485000000,
+        "optimistis": 485000000,
+        "asumsi": "Apresiasi 15.4%/th tahun pertama"
+      },
+      "3yr": {
+        "konservatif": 6300000000,
+        "optimistis": 6900000000,
+        "asumsi": "Apresiasi melambat ~12%/th di tahun ke-3"
+      },
+      "5yr": {
+        "konservatif": 8200000000,
+        "optimistis": 11800000000,
+        "asumsi": "Apresiasi steady ~8%/th jangka panjang"
+      }
+    },
+    "urgency_badge": "SEGERA",
+    "window_keterangan": "Entry sekarang optimal — window pre-tol menutup Q4 2027 saat harga lompat +22%.",
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "land_banking_score": 74,
+    "klasifikasi": "Peluang_Tinggi",
+    "breakdown": {
+      "apresiasi": { "score": 88, "weight": 0.30 },
+      "pipeline": { "score": 72, "weight": 0.25 },
+      "cagr": { "score": 68, "weight": 0.25 },
+      "emerging": { "score": 74, "weight": 0.20 }
+    },
+    "return_estimate": {
+      "1yr": {
+        "konservatif": 220000000,
+        "optimistis": 220000000,
+        "asumsi": "Apresiasi 18.7%/th tahun pertama"
+      },
+      "3yr": {
+        "konservatif": 3100000000,
+        "optimistis": 3600000000,
+        "asumsi": "Apresiasi melambat ~12%/th di tahun ke-3"
+      },
+      "5yr": {
+        "konservatif": 4200000000,
+        "optimistis": 5800000000,
+        "asumsi": "Apresiasi steady ~8%/th jangka panjang"
+      }
+    },
+    "urgency_badge": "SEGERA",
+    "window_keterangan": "Apresiasi tertinggi di sample. Entry sebelum jalan Kawah Putih selesai Q2 2027.",
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204030,
+    "land_banking_score": 62,
+    "klasifikasi": "Sedang",
+    "breakdown": {
+      "apresiasi": { "score": 52, "weight": 0.30 },
+      "pipeline": { "score": 64, "weight": 0.25 },
+      "cagr": { "score": 68, "weight": 0.25 },
+      "emerging": { "score": 72, "weight": 0.20 }
+    },
+    "return_estimate": {
+      "1yr": {
+        "konservatif": 177000000,
+        "optimistis": 177000000,
+        "asumsi": "Apresiasi 7.3%/th tahun pertama"
+      },
+      "3yr": {
+        "konservatif": 2000000000,
+        "optimistis": 2100000000,
+        "asumsi": "Apresiasi melambat ~12%/th di tahun ke-3"
+      },
+      "5yr": {
+        "konservatif": 2400000000,
+        "optimistis": 2600000000,
+        "asumsi": "Apresiasi steady ~8%/th jangka panjang"
+      }
+    },
+    "urgency_badge": "TERBUKA",
+    "window_keterangan": "Harga paling terjangkau — cocok investor konservatif. Apresiasi moderat tapi stabil.",
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1212140,
+    "land_banking_score": 58,
+    "klasifikasi": "Sedang",
+    "breakdown": {
+      "apresiasi": { "score": 54, "weight": 0.30 },
+      "pipeline": { "score": 68, "weight": 0.25 },
+      "cagr": { "score": 62, "weight": 0.25 },
+      "emerging": { "score": 56, "weight": 0.20 }
+    },
+    "return_estimate": {
+      "1yr": {
+        "konservatif": 628000000,
+        "optimistis": 628000000,
+        "asumsi": "Apresiasi 8.2%/th tahun pertama"
+      },
+      "3yr": {
+        "konservatif": 7300000000,
+        "optimistis": 7700000000,
+        "asumsi": "Apresiasi melambat ~12%/th di tahun ke-3"
+      },
+      "5yr": {
+        "konservatif": 8700000000,
+        "optimistis": 9400000000,
+        "asumsi": "Apresiasi steady ~8%/th jangka panjang"
+      }
+    },
+    "urgency_badge": "TERBUKA",
+    "window_keterangan": "Harga premium (580k/m²) — return lebih baik dicari di Berastagi atau Ciwidey secara risk-adjusted.",
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3308020,
+    "land_banking_score": 68,
+    "klasifikasi": "Sedang",
+    "breakdown": {
+      "apresiasi": { "score": 64, "weight": 0.30 },
+      "pipeline": { "score": 78, "weight": 0.25 },
+      "cagr": { "score": 62, "weight": 0.25 },
+      "emerging": { "score": 72, "weight": 0.20 }
+    },
+    "return_estimate": {
+      "1yr": {
+        "konservatif": 364000000,
+        "optimistis": 364000000,
+        "asumsi": "Apresiasi 10.2%/th tahun pertama"
+      },
+      "3yr": {
+        "konservatif": 4300000000,
+        "optimistis": 4700000000,
+        "asumsi": "Apresiasi melambat ~12%/th di tahun ke-3"
+      },
+      "5yr": {
+        "konservatif": 5600000000,
+        "optimistis": 6800000000,
+        "asumsi": "Apresiasi steady ~8%/th jangka panjang"
+      }
+    },
+    "urgency_badge": "TERBUKA",
+    "window_keterangan": "Borobudur infrastructure investment 2025-2027 mendukung apresiasi lahan kelas premium.",
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "status": "rekomendasi_jelas",
+    "rekomendasi": [
+      {
+        "sektor": "agribisnis",
+        "label": "Agrowisata Hortikultura Terintegrasi",
+        "rekomendasi_teks": "Kembangkan kawasan hortikultura premium (stroberi, jeruk, wortel) dengan agrowisata terintegrasi berbasis Pasar Buah Berastagi dan koridor wisata Danau Toba",
+        "alasan": "Land suitability tertinggi (82) + demand absorpsi positif + viabilitas finansial kuat (ratio 2.12x). Syarat 1–4 semua terpenuhi.",
+        "score": 87,
+        "is_utama": true
+      },
+      {
+        "sektor": "pariwisata",
+        "label": "Ekowisata Alam Pegunungan Karo",
+        "rekomendasi_teks": "Paket ekowisata Gunung Sibayak dan Sinabung dengan interpretive center; integrasi rute wisata alam Berastagi–Lake Toba",
+        "alasan": "Market access (A4=64) dan growth projection (A8=81) mendukung; pariwisata berbasis alam cocok dengan topografi",
+        "score": 82,
+        "is_utama": false
+      },
+      {
+        "sektor": "hospitality",
+        "label": "Eco-Resort Dataran Tinggi",
+        "rekomendasi_teks": "Pengembangan eco-resort 30–50 kamar di koridor Berastagi Highland dengan sertifikasi green tourism PHRI",
+        "alasan": "Infrastruktur cukup, demand wisata aktif; ratio viabilitas BORDERLINE (1.31x) memerlukan offtaker komitmen",
+        "score": 78,
+        "is_utama": false
+      },
+      {
+        "sektor": "properti",
+        "label": "Land Banking Pre-Tol Medan–Berastagi",
+        "rekomendasi_teks": "Akuisisi lahan strategis di koridor Jalan Nasional Medan–Berastagi sebelum tol Q4 2027 operasional",
+        "alasan": "Growth projection kuat (A8=81); window sebelum tol beroperasi memberikan upside land value signifikan",
+        "score": 75,
+        "is_utama": false
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "status": "rekomendasi_dengan_syarat",
+    "rekomendasi": [
+      {
+        "sektor": "pariwisata",
+        "label": "Pariwisata Alam Highland Premium",
+        "rekomendasi_teks": "Kawasan wisata tematik Kawah Putih–Situ Patenggang dengan eco-lodge, interpretive trail, dan agrowisata stroberi",
+        "alasan": "Regulatory compliance terbaik (A3=91) + growth projection solid (A8=71); demand wisata Bandung–Ciwidey terbukti stabil",
+        "score": 84,
+        "is_utama": true
+      },
+      {
+        "sektor": "agribisnis",
+        "label": "Agrobisnis Stroberi dan Teh Organik Premium",
+        "rekomendasi_teks": "Pengembangan kebun stroberi organik tersertifikasi dan teh premium grade A untuk pasar ekspor via Bandara BIJB Kertajati",
+        "alasan": "Land suitability sangat baik (A1=82); viabilitas finansial VIABLE (ratio 1.82x); demand premium meningkat",
+        "score": 80,
+        "is_utama": false
+      },
+      {
+        "sektor": "hospitality",
+        "label": "Glamping dan Cottage Kebun Teh",
+        "rekomendasi_teks": "Konsep glamping premium di lahan kebun teh; alih fungsi bertahap sesuai RDTR Kabupaten Bandung",
+        "alasan": "Infrastructure index baik (A2=78); demand wisata aktif; diperlukan peningkatan land suitability hospitality secara bertahap",
+        "score": 72,
+        "is_utama": false
+      }
+    ],
+    "syarat_belum_terpenuhi": [
+      "Land suitability hospitality (62) perlu peningkatan ke ≥65 melalui RDTR Kabupaten Bandung",
+      "RDTR zonasi pariwisata premium Kabupaten Bandung belum finalisasi"
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "status": "rekomendasi_dengan_syarat",
+    "rekomendasi": [
+      {
+        "sektor": "hospitality",
+        "label": "Luxury Boutique Villa dan Beach Club",
+        "rekomendasi_teks": "Pengembangan butik villa premium 10–20 kamar dan beach club targeting segmen wisatawan internasional tier 1",
+        "alasan": "Land suitability hospitality tertinggi (88) + infrastructure index premium (98) + demand absorpsi sangat tinggi",
+        "score": 83,
+        "is_utama": true
+      },
+      {
+        "sektor": "pariwisata",
+        "label": "Pariwisata Pantai Premium dan Digital Nomad Hub",
+        "rekomendasi_teks": "Pengembangan produk surf experience, cultural hospitality, dan co-living digital nomad berbasis ekosistem Seminyak–Canggu",
+        "alasan": "Pasar wisata internasional terkuat di 3 profil; growth projection naik dengan tren digital nomad 2025–2027",
+        "score": 79,
+        "is_utama": false
+      }
+    ],
+    "syarat_belum_terpenuhi": [
+      "Resolusi KONFLIK_REGULASI dengan Dinas PUPR Badung dan ATR/BPN sebagai syarat utama IMB",
+      "Klarifikasi sempadan pantai Perda Badung 6/2013 sebelum konstruksi dimulai"
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206040,
+    "status": "perlu_kajian_lanjut",
+    "rekomendasi": [
+      {
+        "sektor": "agribisnis",
+        "label": "Ditangguhkan — Status Kawasan Lindung Aktif",
+        "rekomendasi_teks": "Pengembangan investasi di Naman Teran tidak dapat diproses selama status Kawasan Lindung Sinabung aktif. Diperlukan revisi batas KLHK terlebih dahulu.",
+        "score": 35,
+        "is_utama": false
+      }
+    ],
+    "syarat_belum_terpenuhi": [
+      "Status KAWASAN_LINDUNG Sinabung membatasi skor maksimum 40; investasi tidak dapat diproses",
+      "Revisi batas kawasan lindung KLHK Jakarta diperlukan sebelum feasibility dilanjutkan",
+      "Konsultasi BKPMD Karo dan KLHK Jakarta wajib sebelum setiap proses perizinan"
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  }
+]

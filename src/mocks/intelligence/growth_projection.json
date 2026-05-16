@@ -1,0 +1,196 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "growth_projection_score": 81,
+    "breakdown": {
+      "pipeline_infra": { "score": 92, "weight": 0.40 },
+      "emerging_destination": { "score": 73, "weight": 0.30 },
+      "cagr_penduduk": { "score": 74, "weight": 0.30 }
+    },
+    "pipeline_infra_detail": [
+      {
+        "proyek": "Tol Medan-Berastagi",
+        "nilai_rp_t": 2.4,
+        "eta_quarter": "2027-Q4",
+        "status": "konstruksi",
+        "dampak": "Memperpendek waktu tempuh Medan-Berastagi dari 2,5 jam menjadi 45 menit"
+      },
+      {
+        "proyek": "Pengembangan Kawasan Strategis Pariwisata Nasional (KSPN) Danau Toba",
+        "nilai_rp_t": 1.8,
+        "eta_quarter": "2027-Q2",
+        "status": "konstruksi",
+        "dampak": "Mendorong kunjungan wisatawan internasional melalui koridor Berastagi-Danau Toba"
+      },
+      {
+        "proyek": "Peningkatan Bandara Silangit - Rute Domestik Baru",
+        "nilai_rp_t": 0.6,
+        "eta_quarter": "2026-Q3",
+        "status": "konstruksi",
+        "dampak": "Akses langsung Berastagi dari Jakarta/Surabaya tanpa transit Medan"
+      }
+    ],
+    "emerging_signal_detail": {
+      "tiktok_geotag_growth_pct_vs_2yr": 168,
+      "instagram_post_growth_pct": 145,
+      "google_trends_search_growth_pct": 92,
+      "airbnb_wish_list_growth_pct": 118
+    },
+    "cagr_penduduk_pct": 2.8,
+    "sinyal_pendukung": [
+      "Tol Medan-Berastagi memperpendek jarak Medan dari 2,5 jam menjadi 45 menit — multiplier effect pariwisata diperkirakan 3–4x",
+      "TikTok #BerastagiVibes tumbuh 168% geotag volume dalam 2 tahun — viral destination organik",
+      "CAGR penduduk Kab. Karo 2,8%/tahun (BPS 2020–2024) — permintaan residensial organik",
+      "RPJMN 2025-2029: kawasan Berastagi masuk Kawasan Strategis Nasional Pariwisata (KSNP)",
+      "Harga lahan masih 5-8x lebih murah dibanding Puncak (Bogor) dengan aksesibilitas setara post-tol"
+    ],
+    "timeline_kritis": [
+      {
+        "quarter": "2026-Q3",
+        "milestone": "Tol Medan-Berastagi mencapai 60% progres konstruksi",
+        "impact": "harga lahan +5-8% antisipasi pasar"
+      },
+      {
+        "quarter": "2027-Q1",
+        "milestone": "Tol Medan-Berastagi uji coba terbatas",
+        "impact": "harga lahan +15-22% — window entry terbaik mulai menutup"
+      },
+      {
+        "quarter": "2027-Q4",
+        "milestone": "Tol Medan-Berastagi resmi beroperasi penuh",
+        "impact": "harga lahan +35-50% dari level saat ini — window pre-tol tertutup"
+      }
+    ],
+    "cost_of_delay_per_bulan_rp": 18500000,
+    "last_computed_at": "2026-05-05T06:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "growth_projection_score": 68,
+    "breakdown": {
+      "pipeline_infra": { "score": 72, "weight": 0.40 },
+      "emerging_destination": { "score": 66, "weight": 0.30 },
+      "cagr_penduduk": { "score": 63, "weight": 0.30 }
+    },
+    "pipeline_infra_detail": [
+      {
+        "proyek": "Akses Jalan Kawah Putih International",
+        "nilai_rp_t": 0.4,
+        "eta_quarter": "2026-Q3",
+        "status": "konstruksi",
+        "dampak": "Kapasitas kunjungan Kawah Putih naik 3x dari saat ini 4.500 menjadi 15.000 tiket/bulan"
+      },
+      {
+        "proyek": "Tol Soreang-Pasirkoja (Soroja) Extension",
+        "nilai_rp_t": 1.1,
+        "eta_quarter": "2027-Q2",
+        "status": "konstruksi",
+        "dampak": "Jarak Bandung-Ciwidey dari 90 menit menjadi 45 menit"
+      },
+      {
+        "proyek": "BIJB Kertajati - Ekspansi Rute Internasional",
+        "nilai_rp_t": 8.2,
+        "eta_quarter": "2026-Q4",
+        "status": "konstruksi",
+        "dampak": "Kunjungan wisatawan internasional ke Bandung Raya meningkat 40%"
+      }
+    ],
+    "emerging_signal_detail": {
+      "tiktok_geotag_growth_pct_vs_2yr": 98,
+      "instagram_post_growth_pct": 82,
+      "google_trends_search_growth_pct": 65,
+      "airbnb_wish_list_growth_pct": 74
+    },
+    "cagr_penduduk_pct": 1.9,
+    "sinyal_pendukung": [
+      "Kawah Putih sudah viral internasional — masuk UNESCO tentative heritage list 2026",
+      "Akses jalan baru akan 3x kapasitas wisatawan dari 4.500 menjadi 15.000 tiket/bulan",
+      "BIJB Kertajati ekspansi rute internasional mendorong incoming tourism Jawa Barat",
+      "Tren agrowisata premium Stroberi Ciwidey tumbuh signifikan di pasar Asia Tenggara",
+      "Harga lahan masih 40% lebih murah dibanding Puncak-Cipanas dengan view setara"
+    ],
+    "timeline_kritis": [
+      {
+        "quarter": "2026-Q3",
+        "milestone": "Akses Jalan Kawah Putih selesai",
+        "impact": "Kunjungan wisata Ciwidey +35% — hospitality demand melonjak"
+      },
+      {
+        "quarter": "2026-Q4",
+        "milestone": "BIJB Kertajati mulai rute internasional penuh",
+        "impact": "Incoming tourism Bandung Raya +40% — spill-over ke Ciwidey"
+      },
+      {
+        "quarter": "2027-Q2",
+        "milestone": "Tol Soroja extension operasional",
+        "impact": "harga lahan Ciwidey +12-18% — aksesibilitas setara Puncak"
+      }
+    ],
+    "cost_of_delay_per_bulan_rp": 9800000,
+    "last_computed_at": "2026-05-05T06:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "growth_projection_score": 58,
+    "breakdown": {
+      "pipeline_infra": { "score": 62, "weight": 0.40 },
+      "emerging_destination": { "score": 54, "weight": 0.30 },
+      "cagr_penduduk": { "score": 58, "weight": 0.30 }
+    },
+    "pipeline_infra_detail": [
+      {
+        "proyek": "Ngurah Rai Airport Terminal 2 Expansion",
+        "nilai_rp_t": 3.8,
+        "eta_quarter": "2027-Q1",
+        "status": "dalam_proses",
+        "dampak": "Kapasitas penumpang Bali naik 30% — mendukung pertumbuhan hospitality Seminyak"
+      },
+      {
+        "proyek": "Jalan Tol Gilimanuk-Mengwi",
+        "nilai_rp_t": 24.6,
+        "eta_quarter": "2028-Q2",
+        "status": "dalam_proses",
+        "dampak": "Konektivitas Bali Barat-Denpasar membaik — dampak moderat untuk Seminyak"
+      },
+      {
+        "proyek": "Seminyak Creative Tourism Hub",
+        "nilai_rp_t": 0.5,
+        "eta_quarter": "2026-Q4",
+        "status": "konstruksi",
+        "dampak": "Revitalisasi Seminyak sebagai creative economy hub Bali"
+      }
+    ],
+    "emerging_signal_detail": {
+      "tiktok_geotag_growth_pct_vs_2yr": 42,
+      "instagram_post_growth_pct": 38,
+      "google_trends_search_growth_pct": 28,
+      "airbnb_wish_list_growth_pct": 45
+    },
+    "cagr_penduduk_pct": 2.1,
+    "sinyal_pendukung": [
+      "Seminyak masih destinasi premium global — masuk top-20 beach destination CNN Travel 2025",
+      "Airport expansion akan bawa 30% lebih wisatawan ke Bali mulai 2027",
+      "Pasar mature dengan permintaan stabil — cocok untuk investor yang prioritaskan capital preservation",
+      "Harga sewa villa premium tetap tinggi (occupancy rate 78%) sepanjang tahun"
+    ],
+    "timeline_kritis": [
+      {
+        "quarter": "2026-Q4",
+        "milestone": "Seminyak Creative Tourism Hub soft opening",
+        "impact": "F&B dan retail premium Seminyak mendapat booster — revenue hospitality +8-12%"
+      },
+      {
+        "quarter": "2027-Q1",
+        "milestone": "Ngurah Rai Terminal 2 expansion selesai fase pertama",
+        "impact": "Kapasitas wisatawan Bali +30% — demand akomodasi meningkat"
+      },
+      {
+        "quarter": "2028-Q2",
+        "milestone": "Tol Gilimanuk-Mengwi beroperasi",
+        "impact": "Konektivitas Bali membaik — manfaat tidak langsung untuk Seminyak"
+      }
+    ],
+    "cost_of_delay_per_bulan_rp": 6200000,
+    "last_computed_at": "2026-05-05T06:00:00Z"
+  }
+]

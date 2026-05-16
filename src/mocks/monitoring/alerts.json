@@ -1,0 +1,321 @@
+[
+  {
+    "id": "alert-ber-001",
+    "wilayah_id": 1206090,
+    "tipe": "konversi_lahan_ilegal",
+    "severity": "KRITIS",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Desa Dokan, Kec. Berastagi, Kab. Karo — 12,5 ha",
+      "ha": 12.5,
+      "lat": 3.1720,
+      "lng": 98.5012
+    },
+    "terdeteksi_at": "2026-04-28T06:00:00Z",
+    "detail": "Konversi lahan hijau pertanian menjadi peruntukan hunian ilegal seluas 12,5 ha di Desa Dokan tanpa izin RDTR yang berlaku. Aktivitas pembukaan lahan terdeteksi melalui citra Sentinel-2 pada akhir April 2026. Terdapat indikasi keterlibatan oknum pihak ketiga dalam penerbitan surat keterangan lahan yang tidak sesuai RTRW Kab. Karo.",
+    "estimasi_dampak": {
+      "pdrb_pct": -1.8,
+      "hilang_pad_rp_per_tahun": 240000000,
+      "keterangan": "Estimasi Bappeda Karo 2026: kehilangan potensi pajak lahan pertanian + potensi denda lingkungan per KLHK",
+      "dampak_lain": "Degradasi kawasan penyangga Taman Wisata Alam Deleng Lancuk seluas ~3,2 ha"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Koordinasi BPN Karo untuk verifikasi batas lahan dan status hak guna — surat permintaan data resmi",
+        "deadline": "2026-05-20"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Terbitkan surat perintah penghentian aktivitas dan pembongkaran oleh Dinas Tata Ruang Kab. Karo",
+        "deadline": "2026-06-01"
+      },
+      {
+        "langkah": 3,
+        "aksi": "Laporkan ke KLHK melalui Dinas Lingkungan Hidup Karo; dokumentasikan bukti citra satelit untuk penegakan hukum",
+        "deadline": "2026-06-15"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-ber-002",
+    "wilayah_id": 1206090,
+    "tipe": "waspadai_kekeringan",
+    "severity": "SEDANG",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Wilayah pertanian Desa Gundaling & Sempajaya, Kec. Berastagi",
+      "ha": null,
+      "lat": 3.2010,
+      "lng": 98.5080
+    },
+    "terdeteksi_at": "2026-05-02T03:00:00Z",
+    "detail": "Anomali NDVI delta -2,8% pada bulan April 2026 menunjukkan tekanan vegetasi di blok pertanian Gundaling. SPI (Standardized Precipitation Index) bulan April menunjukkan kondisi kering ringan (-0,82). Diperlukan pemantauan lanjutan; belum mencapai ambang kekeringan_parah.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.4,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Potensi penurunan produktivitas pertanian stroberi dan kol 3–5% jika kekeringan berlanjut hingga Juni",
+      "dampak_lain": "Risiko kegagalan panen stroberi ~8% lahan aktif jika tidak ditangani dalam 2 minggu"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Aktifkan sistem irigasi cadangan di Desa Gundaling dan Sempajaya — koordinasi Dinas PUPR Karo",
+        "deadline": "2026-05-15"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Koordinasi BPBD Karo untuk kesiapsiagaan distribusi air bersih ke kecamatan terdampak",
+        "deadline": "2026-05-18"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-ber-003",
+    "wilayah_id": 1206090,
+    "tipe": "penurunan_produktivitas",
+    "severity": "TINGGI",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Kebun Kopi Arabika Kec. Berastagi, Kab. Karo — zona ketinggian 1200–1400 m dpl",
+      "ha": null,
+      "lat": 3.1968,
+      "lng": 98.5095
+    },
+    "terdeteksi_at": "2026-04-15T09:00:00Z",
+    "detail": "Penurunan yield kopi arabika grade specialty sebesar 11,4% dari baseline musim panen Q1 2026. Analisis lab menunjukkan kadar air biji lebih tinggi dari spesifikasi ekspor akibat curah hujan tidak menentu Februari–Maret. Berpotensi menurunkan harga jual dari Rp 85ribu/kg menjadi Rp 64ribu/kg.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.7,
+      "hilang_pad_rp_per_tahun": 180000000,
+      "keterangan": "Estimasi berdasarkan data ekspor kopi Karo 2025 (BPS Sumut) — kehilangan nilai ekspor specialty",
+      "dampak_lain": "Dampak reputasi ke offtaker internasional (Kopiku.id dan roaster Singapura)"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Koordinasi Dinas Pertanian Karo untuk pendampingan teknis pasca-panen dan penjemuran ulang biji",
+        "deadline": "2026-05-10"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Sampaikan laporan ke offtaker internasional; negosiasi penjadwalan ulang pengiriman kontrak Q2",
+        "deadline": "2026-05-22"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-ciw-001",
+    "wilayah_id": 3204170,
+    "tipe": "kekeringan_parah",
+    "severity": "TINGGI",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Blok perkebunan teh dan stroberi Desa Lebakmuncang, Kec. Ciwidey — ±18,2 ha",
+      "ha": 18.2,
+      "lat": -7.1020,
+      "lng": 107.4180
+    },
+    "terdeteksi_at": "2026-04-20T05:00:00Z",
+    "detail": "SPI tahunan -1,42 dan deviasi curah hujan -24% dari baseline 5 tahun (data BMKG Bandung). Indeks kekeringan parah terdeteksi via Sentinel-2 NDWI pada blok perkebunan teh dan stroberi Desa Lebakmuncang. Kondisi sudah melampaui ambang waspada (SPI < -1,0) dan mendekati kekeringan ekstrem.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.9,
+      "hilang_pad_rp_per_tahun": 380000000,
+      "keterangan": "Proyeksi Dinas Pertanian Kab. Bandung: teh turun -14%, stroberi -22% dari baseline 2025",
+      "dampak_lain": "Risiko kerusakan permanen tanaman teh yang memerlukan replanting 3–4 tahun"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Aktifkan pompa irigasi cadangan dari Sungai Ciwidey — koordinasi Dinas PUPR Kab. Bandung",
+        "deadline": "2026-05-12"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Koordinasi Dinas Pertanian Kab. Bandung untuk distribusi bibit varietas tahan kekeringan",
+        "deadline": "2026-05-20"
+      },
+      {
+        "langkah": 3,
+        "aksi": "Sampaikan laporan kondisi ke BPBD Jawa Barat untuk penetapan status siaga kekeringan",
+        "deadline": "2026-05-25"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-ciw-002",
+    "wilayah_id": 3204170,
+    "tipe": "penurunan_produktivitas",
+    "severity": "SEDANG",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Kawasan Agrowisata Stroberi Ciwidey, Kec. Ciwidey, Kab. Bandung",
+      "ha": null,
+      "lat": -7.0800,
+      "lng": 107.4200
+    },
+    "terdeteksi_at": "2026-05-01T07:00:00Z",
+    "detail": "Penurunan yield stroberi premium grade A sebesar 9,2% dari baseline musim panen sebelumnya. Kemungkinan disebabkan perubahan jadwal panen akibat cuaca tidak menentu Maret–April 2026. Kunjungan wisata agrowisata juga turun 6,4% dari rata-rata Q1.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.3,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Estimasi kehilangan pendapatan wisata agro Rp 120jt/bulan",
+      "dampak_lain": "Reputasi produk stroberi premium Ciwidey di pasar Bandung dan Jakarta terancam menurun"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Review SOP panen dan pengendalian mutu bersama Koperasi Agrowisata Stroberi Ciwidey",
+        "deadline": "2026-06-01"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Koordinasi Dinas Pariwisata Kab. Bandung untuk program promosi intensif Q2–Q3 2026",
+        "deadline": "2026-05-20"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-ciw-003",
+    "wilayah_id": 3204170,
+    "tipe": "waspadai_kekeringan",
+    "severity": "SEDANG",
+    "status": "INVESTIGATED",
+    "lokasi": {
+      "deskripsi": "Kec. Ciwidey bagian selatan, Kab. Bandung",
+      "ha": null,
+      "lat": -7.1100,
+      "lng": 107.4150
+    },
+    "terdeteksi_at": "2026-04-10T06:00:00Z",
+    "detail": "Sistem peringatan dini kekeringan BMKG mendeteksi anomali SPI -0,62 di zona selatan Ciwidey. Masih dalam ambang waspada (belum kritis). Disarankan pemantauan mingguan dan kesiapsiagaan sumber air alternatif.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.2,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Potensi dampak minimal jika ditangani segera",
+      "dampak_lain": null
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Pantau indeks SPI mingguan via BMKG; laporkan ke Bappeda Kab. Bandung jika melampaui -1,0",
+        "deadline": "2026-06-15"
+      }
+    ],
+    "assignee": "Drs. Hendra Wijaya, M.Si.",
+    "tim_penanganan": "Dinas Lingkungan Hidup Kab. Bandung",
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-sem-001",
+    "wilayah_id": 5103060,
+    "tipe": "potensi_banjir",
+    "severity": "TINGGI",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Jalan Seminyak–Kerobokan, Kel. Seminyak, Kab. Badung — dataran rendah ±2,8 ha",
+      "ha": 2.8,
+      "lat": -8.6870,
+      "lng": 115.1710
+    },
+    "terdeteksi_at": "2026-04-22T08:00:00Z",
+    "detail": "Curah hujan ekstrem bulan April 2026 mencapai +38% dari rata-rata musiman (data BMKG Denpasar). Kapasitas drainase eksisting tidak memadai untuk intensitas hujan >80mm/hari. Model banjir prediktif menunjukkan risiko genangan 40–60 cm di zona rendah Jalan Seminyak dalam 72 jam jika curah hujan berlanjut.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.8,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Potensi kerugian properti Rp 1,2M; gangguan operasional hotel dan villa ±48 unit",
+      "dampak_lain": "Risiko reputasi destinasi Seminyak di platform booking internasional (TripAdvisor, Booking.com)"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Koordinasi pengelola villa dan hotel untuk kesiapsiagaan banjir — evakuasi aset dan tamu",
+        "deadline": "2026-05-12"
+      },
+      {
+        "langkah": 2,
+        "aksi": "Normalisasi saluran drainase utama Jalan Seminyak oleh BPBD Kab. Badung",
+        "deadline": "2026-05-15"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-sem-002",
+    "wilayah_id": 5103060,
+    "tipe": "penurunan_produktivitas",
+    "severity": "SEDANG",
+    "status": "OPEN",
+    "lokasi": {
+      "deskripsi": "Kawasan F&B dan Retail Kel. Seminyak, Kab. Badung",
+      "ha": null,
+      "lat": -8.6905,
+      "lng": 115.1729
+    },
+    "terdeteksi_at": "2026-05-01T07:00:00Z",
+    "detail": "Penurunan kunjungan wisatawan mancanegara -5,2% bulan April 2026 dibanding baseline Q1 (data Dinas Pariwisata Kab. Badung). Berdampak pada revenue F&B dan retail premium Seminyak. Occupancy villa turun dari rata-rata 78% menjadi 74%.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.5,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Penurunan pendapatan sektor F&B Rp 280jt bulan April; hotel kehilangan ~Rp 420jt revenue",
+      "dampak_lain": "Dampak multiplier ke sektor transportasi dan ritel oleh-oleh"
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Koordinasi Dinas Pariwisata Kab. Badung untuk program promosi digital intensif Q2 2026",
+        "deadline": "2026-06-01"
+      }
+    ],
+    "assignee": null,
+    "tim_penanganan": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "alert-sem-003",
+    "wilayah_id": 5103060,
+    "tipe": "waspadai_kekeringan",
+    "severity": "SEDANG",
+    "status": "ASSIGNED",
+    "lokasi": {
+      "deskripsi": "Zona utara Kel. Seminyak berbatasan Kerobokan, Kab. Badung",
+      "ha": null,
+      "lat": -8.6820,
+      "lng": 115.1750
+    },
+    "terdeteksi_at": "2026-04-18T05:00:00Z",
+    "detail": "Penurunan ketersediaan air bersih dari sistem PDAM lokal di zona utara Seminyak karena curah hujan rendah. SPI April -0,78. Beberapa hotel kecil dan villa mulai menggunakan air sumur sebagai alternatif. Berpotensi mempengaruhi kualitas pelayanan hospitality.",
+    "estimasi_dampak": {
+      "pdrb_pct": -0.2,
+      "hilang_pad_rp_per_tahun": null,
+      "keterangan": "Dampak terbatas pada 12–15 properti kecil; akomodasi bintang 4–5 memiliki cadangan air sendiri",
+      "dampak_lain": null
+    },
+    "tindak_lanjut": [
+      {
+        "langkah": 1,
+        "aksi": "Koordinasi PDAM Badung untuk distribusi air tangki ke properti terdampak",
+        "deadline": "2026-05-20"
+      }
+    ],
+    "assignee": "Ir. Gunawan Ridho, M.T.",
+    "tim_penanganan": "BPBD Kab. Badung",
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  }
+]

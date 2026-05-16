@@ -1,0 +1,447 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "sektor": "agro",
+    "demand_absorption_score": 78,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Stroberi",
+        "supply_per_bulan": 240,
+        "demand_per_bulan": 800,
+        "gap": 560,
+        "harga_rp_per_unit": 28000,
+        "unit": "ton/bln",
+        "status": "peluang_besar",
+        "sumber": ["BPS Sensus Pertanian 2023", "Bapanas Q1 2026", "Tokopedia Agri listings"]
+      },
+      {
+        "komoditas": "Markisa",
+        "supply_per_bulan": 180,
+        "demand_per_bulan": 600,
+        "gap": 420,
+        "harga_rp_per_unit": 22000,
+        "unit": "ton/bln",
+        "status": "peluang_besar",
+        "sumber": ["BPS Sensus Pertanian 2023", "Bapanas Q1 2026", "Bukalapak Fresh"]
+      },
+      {
+        "komoditas": "Wortel",
+        "supply_per_bulan": 1200,
+        "demand_per_bulan": 1100,
+        "gap": -100,
+        "harga_rp_per_unit": 8000,
+        "unit": "ton/bln",
+        "status": "mendekati_jenuh",
+        "sumber": ["BPS Produksi Tanaman 2024", "Bapanas Harga Referensi"]
+      },
+      {
+        "komoditas": "Kubis",
+        "supply_per_bulan": 2800,
+        "demand_per_bulan": 2000,
+        "gap": -800,
+        "harga_rp_per_unit": 4500,
+        "unit": "ton/bln",
+        "status": "oversupply",
+        "sumber": ["BPS Produksi Tanaman 2024", "Dinas Pertanian Kab. Karo 2025"]
+      },
+      {
+        "komoditas": "Kopi Arabika",
+        "supply_per_bulan": 60,
+        "demand_per_bulan": 200,
+        "gap": 140,
+        "harga_rp_per_unit": 90000,
+        "unit": "ton/bln",
+        "status": "peluang_tinggi",
+        "sumber": ["AEKI (Asosiasi Eksportir Kopi Indonesia) 2025", "Specialty Coffee Association data"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "hospitality",
+    "demand_absorption_score": 82,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Boutique Villa & Guesthouse",
+        "supply_per_bulan": 840,
+        "demand_per_bulan": 2200,
+        "gap": 1360,
+        "harga_rp_per_unit": 1500000,
+        "unit": "kamar/malam",
+        "status": "peluang_besar",
+        "sumber": ["Traveloka occupancy data Q1 2026", "Booking.com Berastagi inventory"]
+      },
+      {
+        "komoditas": "Homestay & Losmen",
+        "supply_per_bulan": 1200,
+        "demand_per_bulan": 1800,
+        "gap": 600,
+        "harga_rp_per_unit": 450000,
+        "unit": "kamar/malam",
+        "status": "peluang_tinggi",
+        "sumber": ["Traveloka Q1 2026", "Airbnb Berastagi listings"]
+      },
+      {
+        "komoditas": "Glamping & Eco Camp",
+        "supply_per_bulan": 180,
+        "demand_per_bulan": 520,
+        "gap": 340,
+        "harga_rp_per_unit": 800000,
+        "unit": "unit/malam",
+        "status": "peluang_besar",
+        "sumber": ["Traveloka glamping category 2026", "Airbnb experience data"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "pariwisata",
+    "demand_absorption_score": 74,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Ekowisata Alam & Tracking",
+        "supply_per_bulan": 1200,
+        "demand_per_bulan": 3500,
+        "gap": 2300,
+        "harga_rp_per_unit": 150000,
+        "unit": "kunjungan/bln",
+        "status": "peluang_besar",
+        "sumber": ["Dinas Pariwisata Kab. Karo 2025", "TripAdvisor demand signals"]
+      },
+      {
+        "komoditas": "Agrowisata Petik Buah",
+        "supply_per_bulan": 800,
+        "demand_per_bulan": 2200,
+        "gap": 1400,
+        "harga_rp_per_unit": 120000,
+        "unit": "kunjungan/bln",
+        "status": "peluang_besar",
+        "sumber": ["Dinas Pertanian Karo 2025", "Google Maps reviews data"]
+      },
+      {
+        "komoditas": "Wisata Kuliner Lokal",
+        "supply_per_bulan": 2400,
+        "demand_per_bulan": 3600,
+        "gap": 1200,
+        "harga_rp_per_unit": 80000,
+        "unit": "covers/hari",
+        "status": "peluang_tinggi",
+        "sumber": ["Google Maps Berastagi culinary 2026", "TripAdvisor restaurant data"]
+      },
+      {
+        "komoditas": "Wisata Budaya Karo",
+        "supply_per_bulan": 600,
+        "demand_per_bulan": 900,
+        "gap": 300,
+        "harga_rp_per_unit": 100000,
+        "unit": "kunjungan/bln",
+        "status": "peluang_tinggi",
+        "sumber": ["Dinas Kebudayaan Kab. Karo 2025"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "properti",
+    "demand_absorption_score": 71,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Lahan Pertanian Produktif",
+        "supply_per_bulan": 12,
+        "demand_per_bulan": 28,
+        "gap": 16,
+        "harga_rp_per_unit": 420000000,
+        "unit": "ha/bln",
+        "status": "peluang_besar",
+        "sumber": ["OLX Properti Berastagi 2026", "Rumah123 lahan Karo listing"]
+      },
+      {
+        "komoditas": "Villa & Resort Investasi",
+        "supply_per_bulan": 4,
+        "demand_per_bulan": 14,
+        "gap": 10,
+        "harga_rp_per_unit": 4200000000,
+        "unit": "unit/bln",
+        "status": "peluang_besar",
+        "sumber": ["PrivyProp Berastagi 2026", "Rumah.com listings"]
+      },
+      {
+        "komoditas": "Ruko & Komersial",
+        "supply_per_bulan": 6,
+        "demand_per_bulan": 4,
+        "gap": -2,
+        "harga_rp_per_unit": 1800000000,
+        "unit": "unit/bln",
+        "status": "mendekati_jenuh",
+        "sumber": ["OLX Properti 2026", "Lamudi Karo ruko listings"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "agro",
+    "demand_absorption_score": 72,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Stroberi Ciwidey",
+        "supply_per_bulan": 380,
+        "demand_per_bulan": 1100,
+        "gap": 720,
+        "harga_rp_per_unit": 30000,
+        "unit": "ton/bln",
+        "status": "peluang_besar",
+        "sumber": ["Dinas Pertanian Kab. Bandung 2025", "Bapanas Harga Acuan 2026"]
+      },
+      {
+        "komoditas": "Teh Hijau Ciwidey",
+        "supply_per_bulan": 2200,
+        "demand_per_bulan": 1800,
+        "gap": -400,
+        "harga_rp_per_unit": 12000,
+        "unit": "ton/bln",
+        "status": "mendekati_jenuh",
+        "sumber": ["PT Perkebunan Nusantara VIII 2025", "BPS Jawa Barat produksi teh"]
+      },
+      {
+        "komoditas": "Jeruk Siam",
+        "supply_per_bulan": 450,
+        "demand_per_bulan": 750,
+        "gap": 300,
+        "harga_rp_per_unit": 15000,
+        "unit": "ton/bln",
+        "status": "peluang_tinggi",
+        "sumber": ["Bapanas Q1 2026", "Pasar Induk Caringin Bandung data"]
+      },
+      {
+        "komoditas": "Sayuran Dataran Tinggi (Paprika & Brokoli)",
+        "supply_per_bulan": 820,
+        "demand_per_bulan": 1400,
+        "gap": 580,
+        "harga_rp_per_unit": 18000,
+        "unit": "ton/bln",
+        "status": "peluang_besar",
+        "sumber": ["Dinas Pertanian Kab. Bandung 2025", "Giant Hypermarket purchasing data"]
+      },
+      {
+        "komoditas": "Kentang",
+        "supply_per_bulan": 3200,
+        "demand_per_bulan": 2400,
+        "gap": -800,
+        "harga_rp_per_unit": 6500,
+        "unit": "ton/bln",
+        "status": "oversupply",
+        "sumber": ["BPS Jabar produksi tanaman 2024", "Bapanas harga referensi"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "pariwisata",
+    "demand_absorption_score": 80,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Ekowisata Kawah Putih",
+        "supply_per_bulan": 4500,
+        "demand_per_bulan": 12000,
+        "gap": 7500,
+        "harga_rp_per_unit": 200000,
+        "unit": "tiket/bln",
+        "status": "peluang_besar",
+        "sumber": ["Pengelola TWA Kawah Putih 2025", "TripAdvisor visitor demand data"]
+      },
+      {
+        "komoditas": "Glamping & Agro Resort",
+        "supply_per_bulan": 600,
+        "demand_per_bulan": 1800,
+        "gap": 1200,
+        "harga_rp_per_unit": 750000,
+        "unit": "unit/malam",
+        "status": "peluang_besar",
+        "sumber": ["Traveloka glamping data Q1 2026", "Airbnb Ciwidey listings"]
+      },
+      {
+        "komoditas": "Wisata Alam Situ Patenggang",
+        "supply_per_bulan": 3000,
+        "demand_per_bulan": 6500,
+        "gap": 3500,
+        "harga_rp_per_unit": 50000,
+        "unit": "kunjungan/bln",
+        "status": "peluang_besar",
+        "sumber": ["Dinas Pariwisata Kab. Bandung 2025", "Google Maps reviews 2026"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "hospitality",
+    "demand_absorption_score": 68,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Villa & Penginapan Dataran Tinggi",
+        "supply_per_bulan": 1800,
+        "demand_per_bulan": 3200,
+        "gap": 1400,
+        "harga_rp_per_unit": 650000,
+        "unit": "kamar/malam",
+        "status": "peluang_besar",
+        "sumber": ["Traveloka Ciwidey occupancy 2026", "Booking.com Ciwidey data"]
+      },
+      {
+        "komoditas": "Pondok Wisata & Glamping",
+        "supply_per_bulan": 420,
+        "demand_per_bulan": 900,
+        "gap": 480,
+        "harga_rp_per_unit": 850000,
+        "unit": "unit/malam",
+        "status": "peluang_besar",
+        "sumber": ["Airbnb Bandung Selatan 2026"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "properti",
+    "demand_absorption_score": 60,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Lahan Agrowisata",
+        "supply_per_bulan": 8,
+        "demand_per_bulan": 20,
+        "gap": 12,
+        "harga_rp_per_unit": 185000000,
+        "unit": "ha/bln",
+        "status": "peluang_besar",
+        "sumber": ["OLX Properti Ciwidey 2026", "Rumah123 lahan Bandung Selatan"]
+      },
+      {
+        "komoditas": "Kavling Perumahan Agro",
+        "supply_per_bulan": 15,
+        "demand_per_bulan": 12,
+        "gap": -3,
+        "harga_rp_per_unit": 850000000,
+        "unit": "kavling/bln",
+        "status": "mendekati_jenuh",
+        "sumber": ["Rumah.com Ciwidey listings 2026"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "hospitality",
+    "demand_absorption_score": 75,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Boutique Hotel & Luxury Villa (100+ kamar)",
+        "supply_per_bulan": 4800,
+        "demand_per_bulan": 6200,
+        "gap": 1400,
+        "harga_rp_per_unit": 4500000,
+        "unit": "kamar/malam",
+        "status": "peluang_tinggi",
+        "sumber": ["STR Hotel Data Bali Q1 2026", "Booking.com Seminyak 2026"]
+      },
+      {
+        "komoditas": "Private Pool Villa (mewah)",
+        "supply_per_bulan": 320,
+        "demand_per_bulan": 580,
+        "gap": 260,
+        "harga_rp_per_unit": 12000000,
+        "unit": "unit/malam",
+        "status": "peluang_besar",
+        "sumber": ["Airbnb Luxury Bali 2026", "Traveloka Villa Premium data"]
+      },
+      {
+        "komoditas": "Surf Camp & Budget Hostel",
+        "supply_per_bulan": 1200,
+        "demand_per_bulan": 900,
+        "gap": -300,
+        "harga_rp_per_unit": 350000,
+        "unit": "bunk/malam",
+        "status": "mendekati_jenuh",
+        "sumber": ["Hostelworld Bali 2026", "Booking.com budget tier"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "pariwisata",
+    "demand_absorption_score": 65,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Beach Club Experience",
+        "supply_per_bulan": 2800,
+        "demand_per_bulan": 5500,
+        "gap": 2700,
+        "harga_rp_per_unit": 250000,
+        "unit": "seat/hari",
+        "status": "peluang_besar",
+        "sumber": ["Potato Head Beach Club capacity data 2026", "TripAdvisor Seminyak beach clubs"]
+      },
+      {
+        "komoditas": "Spa & Wellness Premium",
+        "supply_per_bulan": 1800,
+        "demand_per_bulan": 2400,
+        "gap": 600,
+        "harga_rp_per_unit": 600000,
+        "unit": "sesi/bln",
+        "status": "peluang_tinggi",
+        "sumber": ["Bali Spa Association 2025", "TripAdvisor spa demand data"]
+      },
+      {
+        "komoditas": "Fine Dining & Rooftop Bar",
+        "supply_per_bulan": 3600,
+        "demand_per_bulan": 3200,
+        "gap": -400,
+        "harga_rp_per_unit": 450000,
+        "unit": "covers/hari",
+        "status": "mendekati_jenuh",
+        "sumber": ["Dinas Pariwisata Badung 2025", "TripAdvisor restaurant volume data"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "properti",
+    "demand_absorption_score": 58,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": [
+      {
+        "komoditas": "Villa Pribadi Mewah (leasehold)",
+        "supply_per_bulan": 12,
+        "demand_per_bulan": 28,
+        "gap": 16,
+        "harga_rp_per_unit": 28500000000,
+        "unit": "unit/bln",
+        "status": "peluang_besar",
+        "sumber": ["Sotheby's International Realty Bali 2026", "JLL Bali Property Market Report Q1 2026"]
+      },
+      {
+        "komoditas": "Ritel & Commercial Strip",
+        "supply_per_bulan": 8,
+        "demand_per_bulan": 5,
+        "gap": -3,
+        "harga_rp_per_unit": 45000000000,
+        "unit": "unit/bln",
+        "status": "mendekati_jenuh",
+        "sumber": ["Colliers Bali Commercial Property 2025"]
+      }
+    ]
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "agro",
+    "demand_absorption_score": 0,
+    "last_updated": "2026-04-30T00:00:00Z",
+    "items": []
+  }
+]

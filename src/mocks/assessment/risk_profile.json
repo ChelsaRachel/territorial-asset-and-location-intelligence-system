@@ -1,0 +1,251 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "scores": {
+      "iklim": 62,
+      "regulasi": 78,
+      "infrastruktur": 68,
+      "sosial": 82
+    },
+    "risiko_dominan": "iklim",
+    "detail_per_dimensi": [
+      {
+        "dimensi": "iklim",
+        "skor": 62,
+        "sub_faktor": [
+          { "nama": "SPI Kumulatif 10 Tahun", "skor": 58, "keterangan": "Karo tercatat defisit curah hujan 2015–2016 dan 2019–2020 (El Niño); SPI rata-rata -0.8" },
+          { "nama": "Probabilitas Kekeringan Pertanian", "skor": 55, "keterangan": "Risiko kekeringan bulan April–Oktober meningkat 18% vs baseline 20 tahun" },
+          { "nama": "Probabilitas Banjir Bandang", "skor": 72, "keterangan": "Kontur berbukit meminimalkan risiko banjir; catatan minor di DAS Lau Biang 2021" },
+          { "nama": "Probabilitas El Niño Musim Tanam", "skor": 64, "keterangan": "Proyeksi BMKG: peluang El Niño lemah 25% pada musim tanam 2027 (periode kritis)" }
+        ]
+      },
+      {
+        "dimensi": "regulasi",
+        "skor": 78,
+        "sub_faktor": [
+          { "nama": "Status Regulatory Flag", "skor": 88, "keterangan": "BEBAS_INVESTASI — tidak ada moratorium, kawasan lindung aktif, atau konflik perda" },
+          { "nama": "Ketersediaan RDTR", "skor": 68, "keterangan": "RDTR Berastagi belum diterbitkan; mengacu RTRW Kab. Karo 2021–2041; kepastian hukum sedang" },
+          { "nama": "Kejelasan Sertifikat Tanah", "skor": 74, "keterangan": "Sebagian lahan HGU perkebunan; verifikasi ATR/BPN diperlukan sebelum akuisisi skala besar" },
+          { "nama": "Kepastian Izin Usaha", "skor": 82, "keterangan": "OSS RBA berlaku; perizinan berusaha risiko menengah-rendah dapat diselesaikan < 14 hari" }
+        ]
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor": 68,
+        "sub_faktor": [
+          { "nama": "Indeks Infrastruktur Agregat", "skor": 76, "keterangan": "Skor A.2 = 76; listrik 99%, jalan aspal 82%, namun air bersih dan 4G masih di bawah target" },
+          { "nama": "Gap Air Bersih PDAM", "skor": 64, "keterangan": "Cakupan PDAM 64%; desa perbatasan bergantung sumur bor dan sumber mata air alami" },
+          { "nama": "Cakupan Jaringan 4G", "skor": 67, "keterangan": "Telkomsel memperluas BTS ke Desa Pernantin–Naman Teran; 3 desa blank spot tersisa per 2026" },
+          { "nama": "Ketahanan Jalan Akses Tunggal", "skor": 62, "keterangan": "Ketergantungan satu akses jalan nasional; perbaikan koridor Medan–Berastagi belum selesai" }
+        ]
+      },
+      {
+        "dimensi": "sosial",
+        "skor": 82,
+        "sub_faktor": [
+          { "nama": "Indeks Kerukunan Sosial", "skor": 86, "keterangan": "Masyarakat Batak Karo dikenal kooperatif; forum adat aktif dalam mediasi konflik lahan" },
+          { "nama": "Tingkat Kemiskinan Kab. Karo", "skor": 80, "keterangan": "8.4% (BPS Karo 2023) — di bawah rata-rata Sumatera Utara 8.9%; tren menurun 3 tahun terakhir" },
+          { "nama": "Gini Ratio", "skor": 78, "keterangan": "0.31 (Karo 2022) — distribusi pendapatan relatif merata vs daerah wisata premium" },
+          { "nama": "Potensi Konflik Lahan Historis", "skor": 84, "keterangan": "Tidak ada sengketa lahan skala besar yang tercatat; koperasi tani aktif sebagai mediator" }
+        ]
+      }
+    ],
+    "mitigation_plan": [
+      {
+        "dimensi": "iklim",
+        "skor_risiko": 62,
+        "aksi": "Asuransi pertanian cuaca AUTP dari Jasindo + sistem irigasi cadangan (embung 5.000 m³) untuk musim kemarau kritis",
+        "timeline": "Sebelum mulai operasional kebun",
+        "cost_estimate": "8–10% dari total modal operasional per musim"
+      },
+      {
+        "dimensi": "regulasi",
+        "skor_risiko": 78,
+        "aksi": "Update dan validasi sertifikat tanah lewat ATR/BPN Karo; verifikasi kesesuaian RTRW sebelum akuisisi; pendampingan OSS RBA",
+        "timeline": "2–3 bulan pra-akuisisi",
+        "cost_estimate": "Rp 15–25 juta (biaya pengurusan + konsultan hukum)"
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor_risiko": 68,
+        "aksi": "Bangun backup access road alternatif 4 km; cold storage on-site 300 ton kapasitas; generator backup 100 kVA untuk operasional kritis",
+        "timeline": "Concurrent dengan konstruksi operasional (bulan 6–18)",
+        "cost_estimate": "Rp 200–400 juta (bergantung spesifikasi cold storage)"
+      },
+      {
+        "dimensi": "sosial",
+        "skor_risiko": 82,
+        "aksi": "Program CSR terstruktur: beasiswa 20 siswa/tahun + kemitraan plasma dengan 50 petani lokal + forum keterbukaan informasi 2x/tahun",
+        "timeline": "Berkelanjutan sejak bulan pertama operasional",
+        "cost_estimate": "3% dari pendapatan bersih per tahun"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "scores": {
+      "iklim": 74,
+      "regulasi": 88,
+      "infrastruktur": 76,
+      "sosial": 80
+    },
+    "risiko_dominan": "infrastruktur",
+    "detail_per_dimensi": [
+      {
+        "dimensi": "iklim",
+        "skor": 74,
+        "sub_faktor": [
+          { "nama": "SPI Kumulatif 10 Tahun", "skor": 72, "keterangan": "Jawa Barat cenderung basah; risiko kekeringan rendah; curah hujan 2.000–3.000 mm/tahun" },
+          { "nama": "Probabilitas Kekeringan Pertanian", "skor": 70, "keterangan": "El Niño 2015 dan 2019 berdampak ringan di Bandung Selatan; irigasi teknis tersedia" },
+          { "nama": "Probabilitas Banjir Bandang", "skor": 74, "keterangan": "Hulu DAS Citarum; risiko banjir sedang terkendali dengan normalisasi Situ Patenggang" },
+          { "nama": "Probabilitas El Niño Musim Tanam", "skor": 78, "keterangan": "Dampak El Niño relatif terkompensasi oleh sistem irigasi teknis Kabupaten Bandung" }
+        ]
+      },
+      {
+        "dimensi": "regulasi",
+        "skor": 88,
+        "sub_faktor": [
+          { "nama": "Status Regulatory Flag", "skor": 94, "keterangan": "BEBAS_INVESTASI; RDTR Kab. Bandung tersedia; kepastian hukum tinggi" },
+          { "nama": "Ketersediaan RDTR", "skor": 86, "keterangan": "RDTR Kec. Ciwidey sudah diterbitkan dan diintegrasikan ke OSS-RBA" },
+          { "nama": "Kejelasan Sertifikat Tanah", "skor": 84, "keterangan": "Mayoritas lahan pertanian bersertifikat SHM; sebagian sawah berstatus tanah adat (pengda)" },
+          { "nama": "Kepastian Izin Usaha", "skor": 88, "keterangan": "OSS RBA aktif; izin agrowisata dan perkebunan dapat diterbitkan dalam 7–10 hari" }
+        ]
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor": 76,
+        "sub_faktor": [
+          { "nama": "Indeks Infrastruktur Agregat", "skor": 78, "keterangan": "Skor A.2 = 78.2; listrik 99%, PDAM 80%, 4G 88%; jalan Soroja masih padat akhir pekan" },
+          { "nama": "Kapasitas Jalan Wisata", "skor": 68, "keterangan": "Bottleneck di jalur Soreang–Ciwidey setiap akhir pekan; kemacetan menurunkan NPS wisatawan" },
+          { "nama": "Cakupan Jaringan 4G", "skor": 88, "keterangan": "Cakupan 4G baik di pusat kota; spot blind masih terjadi di lereng kebun teh terpencil" },
+          { "nama": "Kapasitas Cold Storage Agro", "skor": 70, "keterangan": "Cold storage existing hanya 800 ton; ekspansi dibutuhkan untuk menyerap produksi premium" }
+        ]
+      },
+      {
+        "dimensi": "sosial",
+        "skor": 80,
+        "sub_faktor": [
+          { "nama": "Indeks Kerukunan Sosial", "skor": 84, "keterangan": "Kab. Bandung Selatan minim konflik sosial terdokumentasi; FKUB aktif" },
+          { "nama": "Tingkat Kemiskinan Kab. Bandung", "skor": 80, "keterangan": "7.8% (BPS Kab. Bandung 2023); tren menurun dengan pertumbuhan wisata" },
+          { "nama": "Gini Ratio", "skor": 76, "keterangan": "0.33 — ketimpangan relatif terkontrol; sektor agrowisata menyerap banyak tenaga lokal" },
+          { "nama": "Potensi Konflik Lahan", "skor": 80, "keterangan": "Risiko rendah; mayoritas lahan pertanian sudah bersertifikat; pengda kecil di hulu desa wisata" }
+        ]
+      }
+    ],
+    "mitigation_plan": [
+      {
+        "dimensi": "iklim",
+        "skor_risiko": 74,
+        "aksi": "Diversifikasi komoditas: stroberi + brokoli + kopi arabika untuk hedging seasonal risk; asuransi panen AUTP",
+        "timeline": "Musim tanam kedua (bulan 4–6)",
+        "cost_estimate": "4–6% dari modal operasional per musim"
+      },
+      {
+        "dimensi": "regulasi",
+        "skor_risiko": 88,
+        "aksi": "Pembaruan rutin RDTR 5 tahun; konsultasi Bappeda Kab. Bandung untuk proyek agrowisata skala > 5 ha",
+        "timeline": "1 bulan pra-operasional",
+        "cost_estimate": "Rp 8–15 juta (konsultan tata ruang)"
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor_risiko": 76,
+        "aksi": "Koordinasi Dishub Kab. Bandung untuk jalur khusus shuttle wisata; bangun cold storage modular 500 ton on-site",
+        "timeline": "Concurrent konstruksi (bulan 6–12)",
+        "cost_estimate": "Rp 150–280 juta (cold storage modular)"
+      },
+      {
+        "dimensi": "sosial",
+        "skor_risiko": 80,
+        "aksi": "Program inti-plasma dengan petani stroberi lokal; festival panen 2x/tahun sebagai community engagement",
+        "timeline": "Berkelanjutan",
+        "cost_estimate": "2–3% dari pendapatan bersih per tahun"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "scores": {
+      "iklim": 80,
+      "regulasi": 52,
+      "infrastruktur": 86,
+      "sosial": 68
+    },
+    "risiko_dominan": "regulasi",
+    "detail_per_dimensi": [
+      {
+        "dimensi": "iklim",
+        "skor": 80,
+        "sub_faktor": [
+          { "nama": "SPI Kumulatif 10 Tahun", "skor": 82, "keterangan": "Bali memiliki iklim stabil; risiko kekeringan rendah dengan curah hujan 1.600–2.200 mm/tahun" },
+          { "nama": "Probabilitas Kekeringan Usaha", "skor": 78, "keterangan": "Risiko operasional rendah; pasokan air dari PDAM Kota Denpasar andal" },
+          { "nama": "Probabilitas Banjir Rob/Abrasi", "skor": 78, "keterangan": "Seminyak di zona pesisir; risiko abrasi sedang; perlu sempadan pantai sesuai Perda Badung" },
+          { "nama": "Dampak El Niño ke Pariwisata", "skor": 80, "keterangan": "Bali tourism demand tidak signifikan terpengaruh El Niño; high season Juli–September stabil" }
+        ]
+      },
+      {
+        "dimensi": "regulasi",
+        "skor": 52,
+        "sub_faktor": [
+          { "nama": "Status Regulatory Flag", "skor": 60, "keterangan": "KONFLIK_REGULASI — tumpang tindih izin IMB, kepemilikan tanah asing via nominee, dan Perda zonasi" },
+          { "nama": "Kompleksitas Kepemilikan Lahan", "skor": 48, "keterangan": "Tinggi: campuran HGB, SHM, tanah adat (tanah druwe desa), dan kepemilikan nominee asing" },
+          { "nama": "Ketersediaan RDTR", "skor": 52, "keterangan": "RDTR Kuta belum final; revisi 2024 tertunda; investor mengacu dokumen proxy RTRW Badung" },
+          { "nama": "Ketidakpastian KDB/KLB", "skor": 48, "keterangan": "Koefisien dasar bangunan sering berubah pasca-revisi; risiko retroaktif terhadap bangunan eksisting" }
+        ]
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor": 86,
+        "sub_faktor": [
+          { "nama": "Indeks Infrastruktur Agregat", "skor": 98, "keterangan": "Infrastruktur terbaik dari 3 profil: listrik, air, dan konektivitas mendekati standar internasional" },
+          { "nama": "Konektivitas Bandara", "skor": 92, "keterangan": "Ngurah Rai 9 km; waktu tempuh 16–22 menit normal; ekspansif internasional post-2023" },
+          { "nama": "Kapasitas Pengolahan Limbah", "skor": 72, "keterangan": "Beban pengunjung meningkatkan tekanan IPAL; regulasi lingkungan Badung semakin ketat" },
+          { "nama": "Kapasitas Grid Listrik", "skor": 86, "keterangan": "PLN Bali memiliki kapasitas lebih; resiko padam lebih rendah dibanding daerah luar Jawa-Bali" }
+        ]
+      },
+      {
+        "dimensi": "sosial",
+        "skor": 68,
+        "sub_faktor": [
+          { "nama": "Ketegangan Budaya Pariwisata", "skor": 62, "keterangan": "Komunitas lokal Seminyak mengalami pergeseran budaya akibat masifikasi wisata; perlu Community Social Plan" },
+          { "nama": "Gini Ratio Badung", "skor": 58, "keterangan": "0.38 — ketimpangan tertinggi di antara 3 profil; kesenjangan penghasilan lokal vs turis tinggi" },
+          { "nama": "Persepsi Keamanan", "skor": 80, "keterangan": "Crime rate rendah; polresta Badung aktif patroli kawasan wisata; standar keamanan internasional" },
+          { "nama": "Potensi Resistensi Komunitas", "skor": 72, "keterangan": "Komunitas seni dan seniman Bali semakin vokal soal komersialisasi; risiko ESG reputasional" }
+        ]
+      }
+    ],
+    "mitigation_plan": [
+      {
+        "dimensi": "iklim",
+        "skor_risiko": 80,
+        "aksi": "Desain bangunan pesisir sesuai standar SNI gempa+abrasi; asuransi properti all-risk dengan klausul bencana alam",
+        "timeline": "Pra-konstruksi (bulan 1–3)",
+        "cost_estimate": "1–2% dari nilai aset per tahun (premi asuransi)"
+      },
+      {
+        "dimensi": "regulasi",
+        "skor_risiko": 52,
+        "aksi": "Penugasan konsultan hukum properti Bali berpengalaman; due diligence sertifikat tanah 3 lapis; pantau revisi RDTR Kuta 2025–2026",
+        "timeline": "Wajib sebelum komitmen akuisisi",
+        "cost_estimate": "Rp 50–120 juta (legal due diligence + konsultan izin)"
+      },
+      {
+        "dimensi": "infrastruktur",
+        "skor_risiko": 86,
+        "aksi": "Bangun IPAL swasta berkapasitas 200 m³/hari sesuai syarat lingkungan; backup genset 250 kVA untuk peak season",
+        "timeline": "Fase konstruksi awal (bulan 3–9)",
+        "cost_estimate": "Rp 350–600 juta (IPAL + genset)"
+      },
+      {
+        "dimensi": "sosial",
+        "skor_risiko": 68,
+        "aksi": "Hiring lokal minimum 60% dari total karyawan; program pelatihan vokasional pariwisata; kontribusi dana desa 2%/tahun",
+        "timeline": "Sejak soft opening",
+        "cost_estimate": "2–4% dari pendapatan bersih per tahun"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  }
+]

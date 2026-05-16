@@ -1,0 +1,452 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "nama": "Kec. Berastagi",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 78,
+    "infrastructure_index": 76,
+    "infrastructure_gap": 24,
+    "priority_score": 1872,
+    "rank_provinsi": 1,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 64,
+        "target_pct": 100,
+        "gap": -36,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 67,
+        "target_pct": 100,
+        "gap": -33,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 82,
+        "target_pct": 100,
+        "gap": -18,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 91,
+        "target_pct": 100,
+        "gap": -9,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206050,
+    "nama": "Kec. Merdeka",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 72,
+    "infrastructure_index": 76,
+    "infrastructure_gap": 24,
+    "priority_score": 1728,
+    "rank_provinsi": 2,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 62,
+        "target_pct": 100,
+        "gap": -38,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 60,
+        "target_pct": 100,
+        "gap": -40,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 84,
+        "target_pct": 100,
+        "gap": -16,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 98,
+        "target_pct": 100,
+        "gap": -2,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206040,
+    "nama": "Kec. Naman Teran",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 74,
+    "infrastructure_index": 80,
+    "infrastructure_gap": 20,
+    "priority_score": 1480,
+    "rank_provinsi": 3,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 75,
+        "target_pct": 100,
+        "gap": -25,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 72,
+        "target_pct": 100,
+        "gap": -28,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 82,
+        "target_pct": 100,
+        "gap": -18,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 91,
+        "target_pct": 100,
+        "gap": -9,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206100,
+    "nama": "Kec. Tigapanah",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 68,
+    "infrastructure_index": 80,
+    "infrastructure_gap": 20,
+    "priority_score": 1360,
+    "rank_provinsi": 4,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 70,
+        "target_pct": 100,
+        "gap": -30,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 65,
+        "target_pct": 100,
+        "gap": -35,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 88,
+        "target_pct": 100,
+        "gap": -12,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 97,
+        "target_pct": 100,
+        "gap": -3,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206070,
+    "nama": "Kec. Munte",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 76,
+    "infrastructure_index": 84,
+    "infrastructure_gap": 16,
+    "priority_score": 1216,
+    "rank_provinsi": 5,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 78,
+        "target_pct": 100,
+        "gap": -22,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 80,
+        "target_pct": 100,
+        "gap": -20,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 88,
+        "target_pct": 100,
+        "gap": -12,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 94,
+        "target_pct": 100,
+        "gap": -6,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206030,
+    "nama": "Kec. Lau Baleng",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 60,
+    "infrastructure_index": 82,
+    "infrastructure_gap": 18,
+    "priority_score": 1080,
+    "rank_provinsi": 6,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 72,
+        "target_pct": 100,
+        "gap": -28,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 74,
+        "target_pct": 100,
+        "gap": -26,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 86,
+        "target_pct": 100,
+        "gap": -14,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 96,
+        "target_pct": 100,
+        "gap": -4,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206120,
+    "nama": "Kec. Simpang Empat",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 65,
+    "infrastructure_index": 85,
+    "infrastructure_gap": 15,
+    "priority_score": 975,
+    "rank_provinsi": 7,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 76,
+        "target_pct": 100,
+        "gap": -24,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 80,
+        "target_pct": 100,
+        "gap": -20,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 89,
+        "target_pct": 100,
+        "gap": -11,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 95,
+        "target_pct": 100,
+        "gap": -5,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206060,
+    "nama": "Kec. Kabanjahe",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 82,
+    "infrastructure_index": 90,
+    "infrastructure_gap": 10,
+    "priority_score": 820,
+    "rank_provinsi": 8,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 88,
+        "target_pct": 100,
+        "gap": -12,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 88,
+        "target_pct": 100,
+        "gap": -12,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 91,
+        "target_pct": 100,
+        "gap": -9,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 93,
+        "target_pct": 100,
+        "gap": -7,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206020,
+    "nama": "Kec. Barusjahe",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 55,
+    "infrastructure_index": 86,
+    "infrastructure_gap": 14,
+    "priority_score": 770,
+    "rank_provinsi": 9,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 80,
+        "target_pct": 100,
+        "gap": -20,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 78,
+        "target_pct": 100,
+        "gap": -22,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 90,
+        "target_pct": 100,
+        "gap": -10,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 96,
+        "target_pct": 100,
+        "gap": -4,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 1206010,
+    "nama": "Kec. Dolat Rayat",
+    "kabupaten": "Kab. Karo",
+    "skor_potensi": 62,
+    "infrastructure_index": 88,
+    "infrastructure_gap": 12,
+    "priority_score": 744,
+    "rank_provinsi": 10,
+    "detail_gap": [
+      {
+        "nama": "Air Bersih",
+        "current_pct": 82,
+        "target_pct": 100,
+        "gap": -18,
+        "unit": "% rumah tangga terlayani PDAM",
+        "prioritas": 1
+      },
+      {
+        "nama": "Jaringan 4G/LTE",
+        "current_pct": 84,
+        "target_pct": 100,
+        "gap": -16,
+        "unit": "% coverage area kecamatan",
+        "prioritas": 2
+      },
+      {
+        "nama": "Jalan Aspal Mantap",
+        "current_pct": 90,
+        "target_pct": 100,
+        "gap": -10,
+        "unit": "% panjang jalan lokal dan kolektor",
+        "prioritas": 3
+      },
+      {
+        "nama": "Listrik PLN",
+        "current_pct": 96,
+        "target_pct": 100,
+        "gap": -4,
+        "unit": "% rumah tangga berlangganan PLN",
+        "prioritas": 4
+      }
+    ],
+    "snapshot_date": "2026-05-05"
+  }
+]

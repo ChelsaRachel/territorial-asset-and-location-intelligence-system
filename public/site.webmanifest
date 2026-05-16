@@ -1,0 +1,21 @@
+{
+  "name": "TALIS PoC",
+  "short_name": "TALIS",
+  "icons": [
+    {
+      "src": "/talis-logo-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#1B4332",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}

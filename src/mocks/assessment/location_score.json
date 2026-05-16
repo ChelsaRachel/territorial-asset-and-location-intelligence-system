@@ -1,0 +1,374 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "sektor": "agribisnis",
+    "location_score": 78,
+    "score_breakdown": {
+      "A1": { "raw_score": 82, "weight": 35, "contribution": 28.7 },
+      "A2": { "raw_score": 76, "weight": 20, "contribution": 15.2 },
+      "A3": { "raw_score": 84, "weight": 10, "contribution": 8.4 },
+      "A4": { "raw_score": 64, "weight": 25, "contribution": 16.0 },
+      "A8": { "raw_score": 81, "weight": 10, "contribution": 8.1 }
+    },
+    "weights_used": { "A1": 35, "A2": 20, "A3": 10, "A4": 25, "A8": 10 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Renovasi jalan 12 km koridor Kabanjahe–Berastagi dan peningkatan cold storage kapasitas 500 ton",
+        "impact_estimate": "+5–8 poin dalam 18 bulan"
+      },
+      {
+        "dimensi": "A2",
+        "dimensi_label": "Infrastructure",
+        "aksi": "Pipanisasi air bersih 15 desa perbatasan Rp 12 M + perluasan jaringan 4G Naman Teran corridor",
+        "impact_estimate": "+3–5 poin dalam 12 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "hospitality",
+    "location_score": 62,
+    "score_breakdown": {
+      "A1": { "raw_score": 76, "weight": 15, "contribution": 11.4 },
+      "A2": { "raw_score": 76, "weight": 30, "contribution": 22.8 },
+      "A3": { "raw_score": 84, "weight": 20, "contribution": 16.8 },
+      "A4": { "raw_score": 64, "weight": 20, "contribution": 12.8 },
+      "A8": { "raw_score": 81, "weight": 15, "contribution": 12.15 }
+    },
+    "weights_used": { "A1": 15, "A2": 30, "A3": 20, "A4": 20, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A2",
+        "dimensi_label": "Infrastructure",
+        "aksi": "Upgrade utilitas resort: kapasitas listrik 3 MVA, pengolahan air limbah sesuai standar PHRI",
+        "impact_estimate": "+6–9 poin dalam 24 bulan"
+      },
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Akses langsung dari Bandara Kualanamu via shuttle; rute Medan–Berastagi pascatol 45 menit",
+        "impact_estimate": "+4–6 poin dalam 18 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "pariwisata",
+    "location_score": 68,
+    "score_breakdown": {
+      "A1": { "raw_score": 78, "weight": 15, "contribution": 11.7 },
+      "A2": { "raw_score": 76, "weight": 25, "contribution": 19.0 },
+      "A3": { "raw_score": 84, "weight": 15, "contribution": 12.6 },
+      "A4": { "raw_score": 64, "weight": 25, "contribution": 16.0 },
+      "A8": { "raw_score": 81, "weight": 20, "contribution": 16.2 }
+    },
+    "weights_used": { "A1": 15, "A2": 25, "A3": 15, "A4": 25, "A8": 20 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Integrasi dengan tur Lake Toba–Berastagi; signage wisata bilingual di Jalan Veteran",
+        "impact_estimate": "+5–7 poin dalam 12 bulan"
+      },
+      {
+        "dimensi": "A2",
+        "dimensi_label": "Infrastructure",
+        "aksi": "Peningkatan koneksi 4G di area wisata Gundaling dan Sibayak; revitalisasi terminal wisata",
+        "impact_estimate": "+4–6 poin dalam 18 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "properti",
+    "location_score": 70,
+    "score_breakdown": {
+      "A1": { "raw_score": 65, "weight": 10, "contribution": 6.5 },
+      "A2": { "raw_score": 76, "weight": 35, "contribution": 26.6 },
+      "A3": { "raw_score": 84, "weight": 25, "contribution": 21.0 },
+      "A4": { "raw_score": 64, "weight": 15, "contribution": 9.6 },
+      "A8": { "raw_score": 81, "weight": 15, "contribution": 12.15 }
+    },
+    "weights_used": { "A1": 10, "A2": 35, "A3": 25, "A4": 15, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A2",
+        "dimensi_label": "Infrastructure",
+        "aksi": "Sertifikasi utilitas perkotaan untuk kawasan perumahan: air PDAM 24 jam dan PLN daya 4.400 VA",
+        "impact_estimate": "+5–8 poin dalam 24 bulan"
+      },
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Tol Medan–Berastagi (ETA Q4 2027) akan menaikkan nilai properti pinggir jalan nasional",
+        "impact_estimate": "+4–7 poin setelah tol operasional"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "agribisnis",
+    "location_score": 77,
+    "score_breakdown": {
+      "A1": { "raw_score": 82, "weight": 35, "contribution": 28.7 },
+      "A2": { "raw_score": 78, "weight": 20, "contribution": 15.6 },
+      "A3": { "raw_score": 91, "weight": 10, "contribution": 9.1 },
+      "A4": { "raw_score": 64, "weight": 25, "contribution": 16.0 },
+      "A8": { "raw_score": 71, "weight": 10, "contribution": 7.1 }
+    },
+    "weights_used": { "A1": 35, "A2": 20, "A3": 10, "A4": 25, "A8": 10 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Tol Soroja Extension akan mempersingkat akses ke Pasar Induk Caringin dan BIJB Kertajati",
+        "impact_estimate": "+4–7 poin setelah tol operasional"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Pengembangan agrowisata stroberi dan teh; branding Ciwidey Premium Produce",
+        "impact_estimate": "+3–5 poin dalam 18 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "hospitality",
+    "location_score": 72,
+    "score_breakdown": {
+      "A1": { "raw_score": 62, "weight": 15, "contribution": 9.3 },
+      "A2": { "raw_score": 78, "weight": 30, "contribution": 23.4 },
+      "A3": { "raw_score": 91, "weight": 20, "contribution": 18.2 },
+      "A4": { "raw_score": 64, "weight": 20, "contribution": 12.8 },
+      "A8": { "raw_score": 71, "weight": 15, "contribution": 10.65 }
+    },
+    "weights_used": { "A1": 15, "A2": 30, "A3": 20, "A4": 20, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A1",
+        "dimensi_label": "Land Suitability",
+        "aksi": "Integrasi konsep glamping dan cottage di lahan kebun teh — alih fungsi bertahap sesuai RDTR",
+        "impact_estimate": "+5–8 poin dalam 24 bulan"
+      },
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Paket shuttle Bandung–Ciwidey via Soroja; kerjasama agen wisata Jakarta–Bandung",
+        "impact_estimate": "+3–5 poin dalam 12 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "pariwisata",
+    "location_score": 74,
+    "score_breakdown": {
+      "A1": { "raw_score": 65, "weight": 15, "contribution": 9.75 },
+      "A2": { "raw_score": 78, "weight": 25, "contribution": 19.5 },
+      "A3": { "raw_score": 91, "weight": 15, "contribution": 13.65 },
+      "A4": { "raw_score": 64, "weight": 25, "contribution": 16.0 },
+      "A8": { "raw_score": 71, "weight": 20, "contribution": 14.2 }
+    },
+    "weights_used": { "A1": 15, "A2": 25, "A3": 15, "A4": 25, "A8": 20 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Akses langsung dari pintu Tol Soroja ke kawasan wisata Kawah Putih dan Situ Patenggang",
+        "impact_estimate": "+4–6 poin setelah tol"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Branding Ciwidey Highlands sebagai alternatif Puncak–Bogor dengan RDTR Kabupaten Bandung",
+        "impact_estimate": "+3–5 poin dalam 18 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "properti",
+    "location_score": 76,
+    "score_breakdown": {
+      "A1": { "raw_score": 58, "weight": 10, "contribution": 5.8 },
+      "A2": { "raw_score": 78, "weight": 35, "contribution": 27.3 },
+      "A3": { "raw_score": 91, "weight": 25, "contribution": 22.75 },
+      "A4": { "raw_score": 64, "weight": 15, "contribution": 9.6 },
+      "A8": { "raw_score": 71, "weight": 15, "contribution": 10.65 }
+    },
+    "weights_used": { "A1": 10, "A2": 35, "A3": 25, "A4": 15, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A4",
+        "dimensi_label": "Market Access",
+        "aksi": "Exit tol Ciwidey (rencana) akan mendorong permintaan kavling residensial perbatasan Soroja",
+        "impact_estimate": "+5–8 poin setelah infrastruktur tol"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Serapan migrasi suburbanisasi Bandung; demand kavling 450–600 unit/tahun proyeksi 2027",
+        "impact_estimate": "+4–6 poin dalam 24 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "agribisnis",
+    "location_score": 65,
+    "score_breakdown": {
+      "A1": { "raw_score": 38, "weight": 35, "contribution": 13.3 },
+      "A2": { "raw_score": 98, "weight": 20, "contribution": 19.6 },
+      "A3": { "raw_score": 60, "weight": 10, "contribution": 6.0 },
+      "A4": { "raw_score": 82, "weight": 25, "contribution": 20.5 },
+      "A8": { "raw_score": 58, "weight": 10, "contribution": 5.8 }
+    },
+    "weights_used": { "A1": 35, "A2": 20, "A3": 10, "A4": 25, "A8": 10 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A1",
+        "dimensi_label": "Land Suitability",
+        "aksi": "Lokasi pantai Seminyak tidak cocok untuk agribisnis; diversifikasi ke hospitality atau pariwisata lebih optimal",
+        "impact_estimate": "Pindah sektor hospitality → skor naik dari 65 ke 80"
+      },
+      {
+        "dimensi": "A3",
+        "dimensi_label": "Zoning Compliance",
+        "aksi": "Resolusi KONFLIK_REGULASI akan meningkatkan compliance score; namun land suitability agribisnis tetap terbatas",
+        "impact_estimate": "+5–8 poin setelah regulasi clean, masih dibatasi A1 rendah"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "hospitality",
+    "location_score": 80,
+    "score_breakdown": {
+      "A1": { "raw_score": 88, "weight": 15, "contribution": 13.2 },
+      "A2": { "raw_score": 98, "weight": 30, "contribution": 29.4 },
+      "A3": { "raw_score": 60, "weight": 20, "contribution": 12.0 },
+      "A4": { "raw_score": 82, "weight": 20, "contribution": 16.4 },
+      "A8": { "raw_score": 58, "weight": 15, "contribution": 8.7 }
+    },
+    "weights_used": { "A1": 15, "A2": 30, "A3": 20, "A4": 20, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A3",
+        "dimensi_label": "Zoning Compliance",
+        "aksi": "Penyelesaian konflik regulasi dan update RDTR Kuta; konsultasi ATR/BPN dan Pemda Badung",
+        "impact_estimate": "+10–15 poin setelah regulasi clean"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Repositioning dari mass tourism ke boutique luxury; paket eco-wellness premium",
+        "impact_estimate": "+4–6 poin dalam 24 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "pariwisata",
+    "location_score": 77,
+    "score_breakdown": {
+      "A1": { "raw_score": 85, "weight": 15, "contribution": 12.75 },
+      "A2": { "raw_score": 98, "weight": 25, "contribution": 24.5 },
+      "A3": { "raw_score": 60, "weight": 15, "contribution": 9.0 },
+      "A4": { "raw_score": 82, "weight": 25, "contribution": 20.5 },
+      "A8": { "raw_score": 58, "weight": 20, "contribution": 11.6 }
+    },
+    "weights_used": { "A1": 15, "A2": 25, "A3": 15, "A4": 25, "A8": 20 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A3",
+        "dimensi_label": "Zoning Compliance",
+        "aksi": "Pengajuan izin pariwisata berbasis alam (IMB khusus); klarifikasi sempadan pantai Perda Badung",
+        "impact_estimate": "+8–12 poin setelah regulasi dibenahi"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Inovasi produk wisata: surf school, cultural experience, dan co-living digital nomad",
+        "impact_estimate": "+3–5 poin dalam 12 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "properti",
+    "location_score": 68,
+    "score_breakdown": {
+      "A1": { "raw_score": 55, "weight": 10, "contribution": 5.5 },
+      "A2": { "raw_score": 98, "weight": 35, "contribution": 34.3 },
+      "A3": { "raw_score": 60, "weight": 25, "contribution": 15.0 },
+      "A4": { "raw_score": 82, "weight": 15, "contribution": 12.3 },
+      "A8": { "raw_score": 58, "weight": 15, "contribution": 8.7 }
+    },
+    "weights_used": { "A1": 10, "A2": 35, "A3": 25, "A4": 15, "A8": 15 },
+    "is_capped": false,
+    "effort_vs_impact": [
+      {
+        "dimensi": "A3",
+        "dimensi_label": "Zoning Compliance",
+        "aksi": "Klarifikasi status IMB dan koefisien dasar bangunan (KDB/KLB) dengan Dinas PUPR Badung",
+        "impact_estimate": "+8–12 poin setelah regulasi dibenahi"
+      },
+      {
+        "dimensi": "A8",
+        "dimensi_label": "Growth Projection",
+        "aksi": "Manfaatkan harga masih kompetitif vs Canggu; amankan sebelum gelombang luxury resort masuk",
+        "impact_estimate": "+3–5 poin dalam 24 bulan"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206040,
+    "sektor": "agribisnis",
+    "location_score": 40,
+    "score_breakdown": {
+      "A1": { "raw_score": 76, "weight": 35, "contribution": 26.6 },
+      "A2": { "raw_score": 62, "weight": 20, "contribution": 12.4 },
+      "A3": { "raw_score": 72, "weight": 10, "contribution": 7.2 },
+      "A4": { "raw_score": 48, "weight": 25, "contribution": 12.0 },
+      "A8": { "raw_score": 66, "weight": 10, "contribution": 6.6 }
+    },
+    "weights_used": { "A1": 35, "A2": 20, "A3": 10, "A4": 25, "A8": 10 },
+    "is_capped": true,
+    "cap_reason": "Status regulasi membatasi skor maksimum",
+    "effort_vs_impact": [
+      {
+        "dimensi": "A3",
+        "dimensi_label": "Zoning Compliance",
+        "aksi": "Pengajuan kembali permohonan izin ke BKPMD Karo setelah batas kawasan lindung Sinabung direvisi",
+        "impact_estimate": "Cap dicabut setelah revisi batas KLHK"
+      }
+    ],
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  }
+]

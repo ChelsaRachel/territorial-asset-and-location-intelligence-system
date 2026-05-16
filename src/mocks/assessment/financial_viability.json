@@ -1,0 +1,197 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "sektor": "agribisnis",
+    "revenue_proxy_rp": 67200000,
+    "cost_proxy_rp": 31700000,
+    "ratio": 2.12,
+    "zone": "VIABLE",
+    "asumsi": {
+      "komoditas": "stroberi",
+      "yield_kg_per_ha": 2400,
+      "harga_per_kg": 28000,
+      "biaya_input": 11000000,
+      "biaya_tenaga_kerja": 13500000,
+      "biaya_logistik": 7200000
+    },
+    "sensitivitas": {
+      "harga_turun_10pct": {
+        "ratio": 1.91,
+        "zone": "VIABLE",
+        "delta_pct": "-9.9%"
+      },
+      "yield_turun_15pct": {
+        "ratio": 1.80,
+        "zone": "VIABLE",
+        "delta_pct": "-15.1%"
+      },
+      "biaya_input_naik_20pct": {
+        "ratio": 1.77,
+        "zone": "VIABLE",
+        "delta_pct": "-16.5%"
+      },
+      "kombinasi_terburuk": {
+        "ratio": 1.31,
+        "zone": "BORDERLINE",
+        "delta_pct": "-38.2%"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "sektor": "hospitality",
+    "revenue_proxy_rp": 65500000,
+    "cost_proxy_rp": 50000000,
+    "ratio": 1.31,
+    "zone": "BORDERLINE",
+    "asumsi": {
+      "komoditas": "eco_resort_kabin",
+      "yield_kg_per_ha": 50,
+      "harga_per_kg": 1310000,
+      "biaya_input": 18000000,
+      "biaya_tenaga_kerja": 23000000,
+      "biaya_logistik": 9000000
+    },
+    "sensitivitas": {
+      "harga_turun_10pct": {
+        "ratio": 1.18,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-9.9%"
+      },
+      "yield_turun_15pct": {
+        "ratio": 1.11,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-15.3%"
+      },
+      "biaya_input_naik_20pct": {
+        "ratio": 1.09,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-16.8%"
+      },
+      "kombinasi_terburuk": {
+        "ratio": 0.84,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-35.9%"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "agribisnis",
+    "revenue_proxy_rp": 57200000,
+    "cost_proxy_rp": 31450000,
+    "ratio": 1.82,
+    "zone": "VIABLE",
+    "asumsi": {
+      "komoditas": "stroberi_ciwidey",
+      "yield_kg_per_ha": 2200,
+      "harga_per_kg": 26000,
+      "biaya_input": 10500000,
+      "biaya_tenaga_kerja": 12000000,
+      "biaya_logistik": 8950000
+    },
+    "sensitivitas": {
+      "harga_turun_10pct": {
+        "ratio": 1.63,
+        "zone": "VIABLE",
+        "delta_pct": "-10.4%"
+      },
+      "yield_turun_15pct": {
+        "ratio": 1.55,
+        "zone": "VIABLE",
+        "delta_pct": "-14.8%"
+      },
+      "biaya_input_naik_20pct": {
+        "ratio": 1.51,
+        "zone": "VIABLE",
+        "delta_pct": "-17.0%"
+      },
+      "kombinasi_terburuk": {
+        "ratio": 1.16,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-36.3%"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "pariwisata",
+    "revenue_proxy_rp": 52800000,
+    "cost_proxy_rp": 33000000,
+    "ratio": 1.60,
+    "zone": "VIABLE",
+    "asumsi": {
+      "komoditas": "eco_lodge_highland",
+      "yield_kg_per_ha": 40,
+      "harga_per_kg": 1320000,
+      "biaya_input": 12000000,
+      "biaya_tenaga_kerja": 14000000,
+      "biaya_logistik": 7000000
+    },
+    "sensitivitas": {
+      "harga_turun_10pct": {
+        "ratio": 1.44,
+        "zone": "BORDERLINE",
+        "delta_pct": "-10.0%"
+      },
+      "yield_turun_15pct": {
+        "ratio": 1.36,
+        "zone": "BORDERLINE",
+        "delta_pct": "-15.0%"
+      },
+      "biaya_input_naik_20pct": {
+        "ratio": 1.33,
+        "zone": "BORDERLINE",
+        "delta_pct": "-16.9%"
+      },
+      "kombinasi_terburuk": {
+        "ratio": 1.02,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-36.3%"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "hospitality",
+    "revenue_proxy_rp": 78400000,
+    "cost_proxy_rp": 45000000,
+    "ratio": 1.74,
+    "zone": "VIABLE",
+    "asumsi": {
+      "komoditas": "villa_luxury_seminyak",
+      "yield_kg_per_ha": 40,
+      "harga_per_kg": 1960000,
+      "biaya_input": 15000000,
+      "biaya_tenaga_kerja": 18000000,
+      "biaya_logistik": 12000000
+    },
+    "sensitivitas": {
+      "harga_turun_10pct": {
+        "ratio": 1.57,
+        "zone": "VIABLE",
+        "delta_pct": "-9.8%"
+      },
+      "yield_turun_15pct": {
+        "ratio": 1.48,
+        "zone": "BORDERLINE",
+        "delta_pct": "-14.9%"
+      },
+      "biaya_input_naik_20pct": {
+        "ratio": 1.45,
+        "zone": "BORDERLINE",
+        "delta_pct": "-16.7%"
+      },
+      "kombinasi_terburuk": {
+        "ratio": 1.11,
+        "zone": "NOT_VIABLE",
+        "delta_pct": "-36.2%"
+      }
+    },
+    "last_computed_at": "2026-05-05T03:00:00Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  { "provinsi_id": "11", "provinsi": "Aceh" },
+  { "provinsi_id": "12", "provinsi": "Sumatera Utara" },
+  { "provinsi_id": "13", "provinsi": "Sumatera Barat" },
+  { "provinsi_id": "18", "provinsi": "Lampung" },
+  { "provinsi_id": "32", "provinsi": "Jawa Barat" },
+  { "provinsi_id": "33", "provinsi": "Jawa Tengah" },
+  { "provinsi_id": "34", "provinsi": "DI Yogyakarta" },
+  { "provinsi_id": "35", "provinsi": "Jawa Timur" },
+  { "provinsi_id": "51", "provinsi": "Bali" },
+  { "provinsi_id": "52", "provinsi": "Nusa Tenggara Barat" },
+  { "provinsi_id": "53", "provinsi": "Nusa Tenggara Timur" },
+  { "provinsi_id": "73", "provinsi": "Sulawesi Selatan" }
+]

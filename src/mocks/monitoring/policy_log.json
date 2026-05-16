@@ -1,0 +1,95 @@
+[
+  {
+    "id": "pol-ber-001",
+    "wilayah_id": 1206090,
+    "policy_date": "2024-08-12",
+    "title": "Pembangunan Jalan Desa Cisondari",
+    "deskripsi": "Pembangunan dan peningkatan jalan desa sepanjang 4,2 km menghubungkan Desa Cisondari dengan pusat Kec. Berastagi. Proyek APBD Kab. Karo Tahun 2024, dikerjakan oleh Dinas PUPR Karo. Jalan diperlebar dari 3m menjadi 6m dengan aspal hotmix. Mendukung aksesibilitas petani stroberi dan akses wisata.",
+    "tags": ["infrastruktur"],
+    "created_by": "Bappeda Karo",
+    "attribution": [
+      {
+        "indicator_id": "infrastructure_index",
+        "indicator_label": "Indeks Infrastruktur",
+        "delta_value": 12,
+        "estimated_attribution_pct": 50,
+        "confidence": "tinggi",
+        "rationale": "Kebijakan infrastruktur ini adalah satu-satunya yang tercatat di periode 2024-Q3 pada domain infrastruktur. Peningkatan infrastruktur_index dari 64 menjadi ~70 dalam 2 kuartal pasca-penyelesaian proyek sesuai pola historis pembangunan jalan desa Karo."
+      },
+      {
+        "indicator_id": "market_access",
+        "indicator_label": "Skor Akses Pasar",
+        "delta_value": 12,
+        "estimated_attribution_pct": 30,
+        "confidence": "sedang",
+        "rationale": "Peningkatan akses pasar tidak dapat sepenuhnya dikaitkan hanya dengan proyek jalan ini, mengingat ada faktor lain seperti pembukaan rute transportasi baru oleh mitra swasta di periode yang sama."
+      }
+    ],
+    "status": "selesai",
+    "sumber_pendanaan": "APBD Kab. Karo 2024",
+    "nilai_proyek_rp": 4200000000,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "pol-ber-002",
+    "wilayah_id": 1206090,
+    "policy_date": "2024-11-05",
+    "title": "Pembangunan Tower 4G Naman Teran",
+    "deskripsi": "Pembangunan menara telekomunikasi 4G/LTE di Desa Naman Teran, Kec. Berastagi, bekerja sama dengan Dinas Kominfo Karo dan operator Telkomsel. Menara setinggi 42m mencakup jangkauan 8 desa di lereng Gunung Sinabung. Program BAKTI Kominfo untuk daerah blankspot. Mendukung digitalisasi pertanian (precision farming) dan konektivitas wisata.",
+    "tags": ["infrastruktur"],
+    "created_by": "Dinas Kominfo Karo",
+    "attribution": [
+      {
+        "indicator_id": "infrastructure_index",
+        "indicator_label": "Indeks Infrastruktur",
+        "delta_value": 6,
+        "estimated_attribution_pct": 30,
+        "confidence": "sedang",
+        "rationale": "Peningkatan konektivitas digital berkontribusi pada infrastruktur_index meski dampaknya lebih lambat terwujud dibanding infrastruktur jalan fisik. Ada dua kebijakan infrastruktur aktif di periode ini (Tower 4G + Jalan Cisondari lanjutan)."
+      },
+      {
+        "indicator_id": "demand_score",
+        "indicator_label": "Skor Permintaan Pasar",
+        "delta_value": 5,
+        "estimated_attribution_pct": 30,
+        "confidence": "sedang",
+        "rationale": "Konektivitas 4G mendorong digital tourism marketing dan booking online dari Berastagi — terlihat dari peningkatan Airbnb listings +22% di Q1 2025."
+      }
+    ],
+    "status": "selesai",
+    "sumber_pendanaan": "APBN Kominfo (Program BAKTI) + APBD Karo 2024",
+    "nilai_proyek_rp": 1850000000,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "id": "pol-ber-003",
+    "wilayah_id": 1206090,
+    "policy_date": "2025-02-18",
+    "title": "MoU Koperasi Stroberi Semperjaya — Dinas Pertanian Karo",
+    "deskripsi": "Penandatanganan MoU antara Koperasi Petani Stroberi Semperjaya (240 anggota) dengan Dinas Pertanian Kab. Karo untuk sertifikasi produk organik, peningkatan rantai nilai, dan akses pembiayaan KUR. MoU mencakup program pelatihan GAP (Good Agricultural Practices), akses cold storage komunal, dan hubungan offtaker dengan supermarket premium di Medan. Program berdampak langsung pada 280 keluarga petani.",
+    "tags": ["demand"],
+    "created_by": "Dinas Pertanian Karo",
+    "attribution": [
+      {
+        "indicator_id": "demand_score",
+        "indicator_label": "Skor Permintaan Pasar",
+        "delta_value": 8,
+        "estimated_attribution_pct": 50,
+        "confidence": "tinggi",
+        "rationale": "Ini adalah satu-satunya kebijakan domain demand yang tercatat di Q1 2025. Peningkatan demand_score dari ~82 ke ~88 di kuartal pasca-MoU konsisten dengan pola peningkatan akses pasar melalui koperasi terstruktur."
+      },
+      {
+        "indicator_id": "growth_score",
+        "indicator_label": "Skor Proyeksi Pertumbuhan",
+        "delta_value": 3,
+        "estimated_attribution_pct": 30,
+        "confidence": "sedang",
+        "rationale": "MoU koperasi meningkatkan kepercayaan investor terhadap kapasitas offtake komoditas lokal, berdampak positif pada growth_score meski sulit dipisahkan dari faktor makro."
+      }
+    ],
+    "status": "aktif",
+    "sumber_pendanaan": "KUR BRI + APBD Karo (fasilitasi)",
+    "nilai_proyek_rp": null,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  }
+]

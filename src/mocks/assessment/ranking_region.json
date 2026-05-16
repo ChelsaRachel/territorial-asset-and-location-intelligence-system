@@ -1,0 +1,158 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "sektor": "agribisnis",
+    "ranking_provinsi": {
+      "region_id": 12,
+      "region_name": "Sumatera Utara",
+      "rank": 3,
+      "of": 25,
+      "top_wilayah": [
+        {
+          "rank": 1,
+          "wilayah_id": 1207050,
+          "nama": "Kec. Doloksanggul",
+          "kabupaten": "Kab. Humbang Hasundutan",
+          "score": 84
+        },
+        {
+          "rank": 2,
+          "wilayah_id": 1206080,
+          "nama": "Kec. Merek",
+          "kabupaten": "Kab. Karo",
+          "score": 82
+        },
+        {
+          "rank": 3,
+          "wilayah_id": 1206090,
+          "nama": "Kec. Berastagi",
+          "kabupaten": "Kab. Karo",
+          "score": 78
+        },
+        {
+          "rank": 4,
+          "wilayah_id": 1209070,
+          "nama": "Kec. Silangkitang",
+          "kabupaten": "Kab. Labuhanbatu Selatan",
+          "score": 76
+        },
+        {
+          "rank": 5,
+          "wilayah_id": 1206050,
+          "nama": "Kec. Merdeka",
+          "kabupaten": "Kab. Karo",
+          "score": 72
+        }
+      ]
+    },
+    "ranking_nasional": {
+      "rank": 47,
+      "of": 514
+    },
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor": "pariwisata",
+    "ranking_provinsi": {
+      "region_id": 32,
+      "region_name": "Jawa Barat",
+      "rank": 3,
+      "of": 45,
+      "top_wilayah": [
+        {
+          "rank": 1,
+          "wilayah_id": 3204150,
+          "nama": "Kec. Rancabali",
+          "kabupaten": "Kab. Bandung",
+          "score": 86
+        },
+        {
+          "rank": 2,
+          "wilayah_id": 3204160,
+          "nama": "Kec. Pasirjambu",
+          "kabupaten": "Kab. Bandung",
+          "score": 83
+        },
+        {
+          "rank": 3,
+          "wilayah_id": 3204170,
+          "nama": "Kec. Ciwidey",
+          "kabupaten": "Kab. Bandung",
+          "score": 74
+        },
+        {
+          "rank": 4,
+          "wilayah_id": 3204190,
+          "nama": "Kec. Pengalengan",
+          "kabupaten": "Kab. Bandung",
+          "score": 71
+        },
+        {
+          "rank": 5,
+          "wilayah_id": 3273040,
+          "nama": "Kec. Cicendo",
+          "kabupaten": "Kota Bandung",
+          "score": 68
+        }
+      ]
+    },
+    "ranking_nasional": {
+      "rank": 28,
+      "of": 514
+    },
+    "snapshot_date": "2026-05-05"
+  },
+  {
+    "wilayah_id": 5103060,
+    "sektor": "hospitality",
+    "ranking_provinsi": {
+      "region_id": 51,
+      "region_name": "Bali",
+      "rank": 2,
+      "of": 15,
+      "top_wilayah": [
+        {
+          "rank": 1,
+          "wilayah_id": 5101010,
+          "nama": "Kec. Kuta",
+          "kabupaten": "Kab. Badung",
+          "score": 88
+        },
+        {
+          "rank": 2,
+          "wilayah_id": 5103060,
+          "nama": "Kec. Seminyak",
+          "kabupaten": "Kab. Badung",
+          "score": 80
+        },
+        {
+          "rank": 3,
+          "wilayah_id": 5103040,
+          "nama": "Kec. Canggu",
+          "kabupaten": "Kab. Badung",
+          "score": 79
+        },
+        {
+          "rank": 4,
+          "wilayah_id": 5104020,
+          "nama": "Kec. Ubud",
+          "kabupaten": "Kab. Gianyar",
+          "score": 76
+        },
+        {
+          "rank": 5,
+          "wilayah_id": 5108030,
+          "nama": "Kec. Nusa Penida",
+          "kabupaten": "Kab. Klungkung",
+          "score": 71
+        }
+      ]
+    },
+    "ranking_nasional": {
+      "rank": 12,
+      "of": 514
+    },
+    "snapshot_date": "2026-05-05"
+  }
+]

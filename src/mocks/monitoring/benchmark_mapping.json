@@ -1,0 +1,107 @@
+[
+  {
+    "wilayah_aktif_id": 1206090,
+    "wilayah_aktif_nama": "Kec. Berastagi",
+    "wilayah_referensi_id": 3204170,
+    "wilayah_referensi_nama": "Kec. Ciwidey",
+    "years_offset": 4,
+    "description": "Ciwidey 4 tahun lalu (2022) memiliki profil Location Score dan aksesibilitas yang sebanding dengan Berastagi saat ini. Ciwidey kemudian diakselerasi oleh pembangunan akses jalan Kawah Putih dan formalisasi koperasi agrowisata — lintasan yang relevan untuk Berastagi pre-tol.",
+    "pelajaran_konkret": {
+      "kebijakan_berhasil": [
+        "Akses jalan Kawah Putih menaikkan kunjungan wisata 4.500 menjadi 11.000 tiket/bln.",
+        "Regulasi agrowisata + sertifikasi GAP petani menjaga kualitas ekspor stroberi.",
+        "Koperasi stroberi 320 anggota memperkuat posisi tawar dan akses horeca Jakarta."
+      ],
+      "kesalahan_hindari": [
+        "Infrastruktur tanpa aturan lingkungan menekan lahan pertanian produktif zona penyangga.",
+        "Minim pelibatan komunitas lokal memicu konflik lahan di 3 desa wisata."
+      ],
+      "implikasi_untuk_aktif": [
+        "Model koperasi Ciwidey dapat diadopsi; MoU awal Dinas Pertanian sudah ada.",
+        "Diversifikasi stroberi, kopi, dan kol menaikkan daya tarik serta resiliensi.",
+        "Sertifikasi organik butuh kemitraan pemerintah-swasta dan target 24 bulan."
+      ]
+    },
+    "reference_snapshot": {
+      "year": 2022,
+      "location_score": 70,
+      "infrastructure_index": 68,
+      "market_access": 56,
+      "harga_lahan_median": 120000,
+      "tren_wilayah_label": "Membaik"
+    },
+    "forecast_aktif_n_years": 4,
+    "forecast_aktif_score": 84,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_aktif_id": 3204170,
+    "wilayah_aktif_nama": "Kec. Ciwidey",
+    "wilayah_referensi_id": 3507070,
+    "wilayah_referensi_nama": "Kec. Pacet",
+    "years_offset": 3,
+    "description": "Pacet (Kab. Mojokerto, Jawa Timur) 3 tahun lalu (2023) menunjukkan profil agrowisata yang lebih matang dengan LS 74 dan market access 68. Pacet mengalami akselerasi melalui program KSPN (Kawasan Strategis Pariwisata Nasional) dan penguatan UMKM lokal — lintasan yang Ciwidey sedang ikuti.",
+    "pelajaran_konkret": {
+      "kebijakan_berhasil": [
+        "KSPN Trawas-Pacet mengintegrasikan wisata alam, agro, budaya; kunjungan naik 140%.",
+        "Pelatihan UMKM produk olahan pertanian (keripik, dodol, jamu) menciptakan 850 lapangan kerja baru.",
+        "Zona agrowisata yang dipetakan dalam RDTR menghindarkan konflik dengan kawasan pertanian produktif."
+      ],
+      "kesalahan_hindari": [
+        "Parkir wisata tanpa manajemen traffic memicu kemacetan dan turunnya kepuasan.",
+        "Harga lahan naik 28% sebelum RDTR; spekulasi merugikan petani yang jual dini."
+      ],
+      "implikasi_untuk_aktif": [
+        "Ciwidey perlu memetakan zona agrowisata dalam RDTR sebelum tekanan pasca tol.",
+        "Inkubasi UMKM olahan stroberi dan teh premium dapat dimulai via Dinas Koperasi.",
+        "Traffic dan parkir terpadu harus siap sebelum kunjungan mencapai kapasitas kritis."
+      ]
+    },
+    "reference_snapshot": {
+      "year": 2023,
+      "location_score": 74,
+      "infrastructure_index": 72,
+      "market_access": 68,
+      "harga_lahan_median": 145000,
+      "tren_wilayah_label": "Membaik"
+    },
+    "forecast_aktif_n_years": 3,
+    "forecast_aktif_score": 82,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_aktif_id": 5103060,
+    "wilayah_aktif_nama": "Kel. Seminyak",
+    "wilayah_referensi_id": 5102050,
+    "wilayah_referensi_nama": "Kec. Ubud",
+    "years_offset": 6,
+    "description": "Ubud (Kab. Gianyar) 6 tahun lalu (2020) memiliki profil premium destination yang sebanding dengan Seminyak saat ini — basis budaya kuat, pasar mature, dan tekanan overtourism mulai terasa. Ubud kemudian berhasil mengatur arus wisata melalui regulasi zonasi dan premium positioning.",
+    "pelajaran_konkret": {
+      "kebijakan_berhasil": [
+        "Zonasi Ubud Cultural Heritage membatasi bangunan >2 lantai dan menjaga karakter premium.",
+        "Ubud Writers & Readers Festival memperkuat brand dan menarik wisatawan berkualitas.",
+        "Kemitraan luxury travel menaikkan ADR villa dari USD 180 menjadi USD 380/malam."
+      ],
+      "kesalahan_hindari": [
+        "Akomodasi massal tanpa zonasi menurunkan kualitas pengalaman wisata 2018-2019.",
+        "Minim diversifikasi beyond hospitality membuat ekonomi lokal bergantung siklus wisata."
+      ],
+      "implikasi_untuk_aktif": [
+        "Seminyak perlu zonasi tegas untuk premium positioning dan menghindari crowding.",
+        "Wellness, digital nomad, dan creative economy memitigasi fluktuasi wisata musiman.",
+        "Kolaborasi platform luxury travel global dapat menaikkan ADR segmen premium."
+      ]
+    },
+    "reference_snapshot": {
+      "year": 2020,
+      "location_score": 71,
+      "infrastructure_index": 90,
+      "market_access": 78,
+      "harga_lahan_median": 22000000,
+      "tren_wilayah_label": "Stabil"
+    },
+    "forecast_aktif_n_years": 6,
+    "forecast_aktif_score": 76,
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  }
+]

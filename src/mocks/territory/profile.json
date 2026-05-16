@@ -1,0 +1,238 @@
+[
+  {
+    "wilayah_id": 3204170,
+    "demografi": {
+      "luas_km2": 35.35,
+      "jumlah_penduduk": 90740,
+      "kepadatan_per_km2": 2567,
+      "pdrb_per_kapita_juta": 41.37,
+      "jumlah_desa_kelurahan": 7,
+      "tahun_data": 2023,
+      "sumber": "BPS Kabupaten Bandung, Kecamatan Ciwidey Dalam Angka 2024; RKPD Kabupaten Bandung 2025",
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "infrastruktur": {
+      "infrastructure_index": 78.2,
+      "kategori": "Lengkap",
+      "breakdown": {
+        "jalan_aspal": 76,
+        "listrik_pln": 92,
+        "air_bersih": 71,
+        "sinyal_4g": 70
+      },
+      "tahun_data": 2024,
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "komposisi_lahan": [
+      {
+        "kategori": "kebun",
+        "label": "Kebun dan hortikultura",
+        "luas_ha": 1484.7,
+        "persen": 42,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "sawah",
+        "label": "Sawah",
+        "luas_ha": 813.05,
+        "persen": 23,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "hutan",
+        "label": "Hutan dan kawasan konservasi",
+        "luas_ha": 707,
+        "persen": 20,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "permukiman",
+        "label": "Permukiman",
+        "luas_ha": 388.85,
+        "persen": 11,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "lahan_terbuka",
+        "label": "Lahan terbuka",
+        "luas_ha": 106.05,
+        "persen": 3,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "badan_air",
+        "label": "Badan air",
+        "luas_ha": 35.35,
+        "persen": 1,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      }
+    ],
+    "analisis_otomatis": {
+      "gap_kritis": "Air bersih dan konektivitas jalan pengumpan masih menjadi batas ekspansi agro-processing di desa-desa sisi barat.",
+      "prioritas_intervensi": [
+        "Perluas jaringan SPAM perdesaan untuk sentra hortikultura Rawabogo dan Lebakmuncang.",
+        "Perkeras ruas pengumpan kebun menuju koridor Soreang-Ciwidey agar truk panen tidak bergantung pada jam kering.",
+        "Tambahkan micro BTS di titik wisata dan kebun terpencil untuk memperkuat pencatatan panen dan reservasi agrowisata."
+      ]
+    },
+    "last_updated": "2026-04-30T00:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "demografi": {
+      "luas_km2": 2.65,
+      "jumlah_penduduk": 4045,
+      "kepadatan_per_km2": 1526.42,
+      "pdrb_per_kapita_juta": 98.2,
+      "jumlah_desa_kelurahan": 1,
+      "tahun_data": 2023,
+      "sumber": "BPS Kabupaten Badung, Kecamatan Kuta Dalam Angka 2024; PDRB Kabupaten Badung 2023",
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "infrastruktur": {
+      "infrastructure_index": 98,
+      "kategori": "Lengkap",
+      "breakdown": {
+        "jalan_aspal": 99,
+        "listrik_pln": 100,
+        "air_bersih": 95,
+        "sinyal_4g": 98
+      },
+      "tahun_data": 2024,
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "komposisi_lahan": [
+      {
+        "kategori": "permukiman",
+        "label": "Permukiman dan komersial",
+        "luas_ha": 190.8,
+        "persen": 72,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "lahan_terbuka",
+        "label": "Lahan terbuka dan parkir",
+        "luas_ha": 26.5,
+        "persen": 10,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "lain",
+        "label": "Koridor pariwisata pantai",
+        "luas_ha": 26.5,
+        "persen": 10,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "kebun",
+        "label": "Ruang hijau privat",
+        "luas_ha": 15.9,
+        "persen": 6,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "badan_air",
+        "label": "Sempadan air dan drainase",
+        "luas_ha": 5.3,
+        "persen": 2,
+        "sumber": "Proxy KLHK/GEE PoC",
+        "snapshot_date": "2026-04-15"
+      }
+    ],
+    "analisis_otomatis": {
+      "gap_kritis": "Kapasitas fisik wilayah sangat tinggi, tetapi tekanan jalan lokal dan utilitas pariwisata membuat izin hospitality baru perlu seleksi tapak ketat.",
+      "prioritas_intervensi": [
+        "Audit sambungan air dan limbah pada koridor akomodasi padat sebelum izin perluasan hotel atau villa.",
+        "Prioritaskan manajemen lalu lintas logistik ringan pada jam check-in dan bongkar muat restoran.",
+        "Kunci ruang hijau privat dan sempadan drainase sebagai buffer banjir lokal pada musim hujan."
+      ]
+    },
+    "last_updated": "2026-04-30T00:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "demografi": {
+      "luas_km2": 30.5,
+      "jumlah_penduduk": 43214,
+      "kepadatan_per_km2": 1417.18,
+      "pdrb_per_kapita_juta": 38,
+      "jumlah_desa_kelurahan": 12,
+      "tahun_data": 2024,
+      "sumber": "docs/02_TERRITORY_PROFILE.md canonical sample; BPS Kabupaten Karo reference pattern",
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "infrastruktur": {
+      "infrastructure_index": 75.6,
+      "kategori": "Lengkap",
+      "breakdown": {
+        "jalan_aspal": 78,
+        "listrik_pln": 89,
+        "air_bersih": 64,
+        "sinyal_4g": 67
+      },
+      "tahun_data": 2024,
+      "last_synced_at": "2026-04-30T00:00:00Z"
+    },
+    "komposisi_lahan": [
+      {
+        "kategori": "kebun",
+        "label": "Kebun",
+        "luas_ha": 1433.5,
+        "persen": 47,
+        "sumber": "docs/02_TERRITORY_PROFILE.md sample",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "hutan",
+        "label": "Hutan",
+        "luas_ha": 854,
+        "persen": 28,
+        "sumber": "docs/02_TERRITORY_PROFILE.md sample",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "permukiman",
+        "label": "Permukiman",
+        "luas_ha": 457.5,
+        "persen": 15,
+        "sumber": "docs/02_TERRITORY_PROFILE.md sample",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "sawah",
+        "label": "Sawah",
+        "luas_ha": 244,
+        "persen": 8,
+        "sumber": "docs/02_TERRITORY_PROFILE.md sample",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "kategori": "lain",
+        "label": "Lahan terbuka dan lain",
+        "luas_ha": 61,
+        "persen": 2,
+        "sumber": "docs/02_TERRITORY_PROFILE.md sample",
+        "snapshot_date": "2026-04-15"
+      }
+    ],
+    "analisis_otomatis": {
+      "gap_kritis": "Air bersih (64%) di sisi barat dapat menahan ekspansi pengolahan hortikultura dan hospitality skala menengah.",
+      "prioritas_intervensi": [
+        "Pipanisasi 15 desa di sisi barat dengan prioritas sentra hortikultura dan akomodasi wisata.",
+        "Tower 4G tambahan di 3 desa dengan sinyal lemah untuk transaksi wisata dan pelaporan panen.",
+        "Upgrade jalan aspal 14 km menuju Kabanjahe agar distribusi sayur dan buah lebih stabil saat musim hujan."
+      ]
+    },
+    "last_updated": "2026-04-30T00:00:00Z"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_routes_1206090",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pelabuhan_export",
+        "nama": "Belawan, Medan",
+        "jarak_km": 84,
+        "waktu_menit": 135,
+        "color": "#1E40AF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [98.5095, 3.1968],
+          [98.502, 3.256],
+          [98.615, 3.452],
+          [98.672, 3.595],
+          [98.6888, 3.7841]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "bandara_internasional",
+        "nama": "Kualanamu",
+        "jarak_km": 96,
+        "waktu_menit": 150,
+        "color": "#40916C"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [98.5095, 3.1968],
+          [98.502, 3.256],
+          [98.625, 3.472],
+          [98.746, 3.548],
+          [98.8853, 3.6422]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pasar_induk",
+        "nama": "Pusat Pasar Medan",
+        "jarak_km": 78,
+        "waktu_menit": 125,
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [98.5095, 3.1968],
+          [98.507, 3.258],
+          [98.608, 3.447],
+          [98.6815, 3.5896]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "ibukota_provinsi",
+        "nama": "Medan",
+        "jarak_km": 78,
+        "waktu_menit": 125,
+        "color": "#57534E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [98.5095, 3.1968],
+          [98.507, 3.258],
+          [98.612, 3.452],
+          [98.6722, 3.5952]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "jalan_nasional",
+        "nama": "Jln. Lintas Sumatera (junction Berastagi)",
+        "jarak_km": 0,
+        "waktu_menit": 0,
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [98.5095, 3.1968],
+          [98.512, 3.198]
+        ]
+      }
+    }
+  ]
+}

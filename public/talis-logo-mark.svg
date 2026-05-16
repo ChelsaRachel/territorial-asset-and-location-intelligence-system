@@ -1,0 +1,8 @@
+<svg id="talis-logo-mark" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
+  <circle cx="14" cy="14" r="13" stroke="#1B4332" stroke-width="2" />
+  <path
+    d="M14 7 C14 7 8 12 8 17 C8 20.3 10.7 23 14 23 C17.3 23 20 20.3 20 17 C20 12 14 7 14 7Z"
+    fill="#40916C"
+  />
+  <path d="M14 7 L14 23" stroke="#1B4332" stroke-width="1.2" />
+</svg>

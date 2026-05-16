@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_routes_5103060",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pelabuhan_export",
+        "nama": "Pelabuhan Benoa",
+        "jarak_km": 11,
+        "waktu_menit": 26,
+        "color": "#1E40AF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115.1729, -8.6905],
+          [115.191, -8.704],
+          [115.213, -8.721],
+          [115.2171, -8.7429]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "bandara_internasional",
+        "nama": "Bandara Internasional I Gusti Ngurah Rai",
+        "jarak_km": 9,
+        "waktu_menit": 22,
+        "color": "#40916C"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115.1729, -8.6905],
+          [115.169, -8.706],
+          [115.1673, -8.7482]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pasar_induk",
+        "nama": "Pasar Badung Denpasar",
+        "jarak_km": 8,
+        "waktu_menit": 24,
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115.1729, -8.6905],
+          [115.191, -8.674],
+          [115.2125, -8.6528]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "ibukota_provinsi",
+        "nama": "Kota Denpasar",
+        "jarak_km": 9,
+        "waktu_menit": 25,
+        "color": "#57534E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115.1729, -8.6905],
+          [115.19, -8.678],
+          [115.2126, -8.6705]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "jalan_nasional",
+        "nama": "Koridor Sunset Road",
+        "jarak_km": 2,
+        "waktu_menit": 8,
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [115.1729, -8.6905],
+          [115.1808, -8.6887]
+        ]
+      }
+    }
+  ]
+}

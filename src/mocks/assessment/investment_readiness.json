@@ -1,0 +1,120 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "investment_readiness_score": 80.75,
+    "klasifikasi": "Siap_Investasi",
+    "sektor_siap": {
+      "agribisnis": {
+        "status": "siap",
+        "syarat_terpenuhi": 4,
+        "total": 4,
+        "syarat_belum": []
+      },
+      "hospitality": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Zonasi pariwisata RDTR untuk eco-resort belum ditetapkan"]
+      },
+      "pariwisata": {
+        "status": "siap",
+        "syarat_terpenuhi": 4,
+        "total": 4,
+        "syarat_belum": []
+      },
+      "properti": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Demand absorption properti residensial di bawah threshold pasar aktif"]
+      }
+    },
+    "verdict_status": "LAYAK",
+    "verdict_kondisi": [
+      "Verifikasi sertifikat tanah lewat ATR/BPN sebelum akuisisi",
+      "Konfirmasi offtaker hortikultura premium minimal 60% kapasitas sebelum operasi"
+    ],
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "investment_readiness_score": 80.5,
+    "klasifikasi": "Siap_Investasi",
+    "sektor_siap": {
+      "agribisnis": {
+        "status": "siap",
+        "syarat_terpenuhi": 4,
+        "total": 4,
+        "syarat_belum": []
+      },
+      "hospitality": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Land suitability hospitality (62) di bawah ambang batas minimum 65"]
+      },
+      "pariwisata": {
+        "status": "siap",
+        "syarat_terpenuhi": 4,
+        "total": 4,
+        "syarat_belum": []
+      },
+      "properti": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Land suitability properti komersial (58) di bawah ambang batas minimum 65"]
+      }
+    },
+    "verdict_status": "LAYAK",
+    "verdict_kondisi": [
+      "Tingkatkan profil land suitability hospitality secara bertahap melalui RDTR Kabupaten Bandung",
+      "Pastikan offtaker agribisnis dan jaringan distribusi teh tersedia sebelum akuisisi lahan"
+    ],
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "investment_readiness_score": 76.0,
+    "klasifikasi": "Siap_Investasi",
+    "sektor_siap": {
+      "agribisnis": {
+        "status": "belum_siap",
+        "syarat_terpenuhi": 1,
+        "total": 4,
+        "syarat_belum": [
+          "Land suitability agribisnis (38) jauh di bawah ambang batas 65",
+          "Demand absorption agribisnis nol — tidak ada pasar off-take pertanian di lokasi pantai",
+          "Regulatory flag KONFLIK_REGULASI bukan BEBAS_INVESTASI"
+        ]
+      },
+      "hospitality": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Regulatory flag KONFLIK_REGULASI perlu diselesaikan dengan Dinas PUPR Badung"]
+      },
+      "pariwisata": {
+        "status": "siap_dengan_syarat",
+        "syarat_terpenuhi": 3,
+        "total": 4,
+        "syarat_belum": ["Konflik regulasi sempadan pantai Seminyak perlu klarifikasi ATR/BPN Badung"]
+      },
+      "properti": {
+        "status": "belum_siap",
+        "syarat_terpenuhi": 2,
+        "total": 4,
+        "syarat_belum": [
+          "Land suitability properti (55) di bawah ambang batas 65",
+          "Regulatory flag KONFLIK_REGULASI bukan BEBAS_INVESTASI"
+        ]
+      }
+    },
+    "verdict_status": "LAYAK_BERSYARAT",
+    "verdict_kondisi": [
+      "Resolusi KONFLIK_REGULASI dengan Dinas PUPR Badung adalah syarat utama sebelum proses akuisisi",
+      "Fokus pada sektor hospitality dan pariwisata; agribisnis dan properti tidak direkomendasikan"
+    ],
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  }
+]

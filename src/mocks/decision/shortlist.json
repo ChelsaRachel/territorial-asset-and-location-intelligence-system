@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sl-001",
+    "user_id": "demo-user",
+    "wilayah_id": 1206090,
+    "catatan": "Prioritas utama — window pre-tol Q4 2027. Budget alokasi 70% portfolio.",
+    "saved_at": "2026-05-01T08:30:00Z"
+  },
+  {
+    "id": "sl-002",
+    "user_id": "demo-user",
+    "wilayah_id": 3204170,
+    "catatan": "Alternatif konservatif — apresiasi tinggi, harga entry terjangkau.",
+    "saved_at": "2026-05-03T14:15:00Z"
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "sektor_aktif": "agribisnis",
+    "recommendations": [
+      {
+        "sektor": "agrowisata_terintegrasi",
+        "suitability_score": 87,
+        "urgency_score": 78,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Window entry optimal sebelum Tol Medan-Berastagi operasional Q4 2027 — setelah itu harga lahan +22% dan kompetisi investor meningkat tajam.",
+        "cost_of_delay_rp_bulan_ha": 22000000,
+        "aksi": "Amankan minimal 5 ha di Kel. Gundaling I-II sebelum Q4 2026. Prioritas kavling dengan akses jalan kabupaten dan elevasi 1200-1400m."
+      },
+      {
+        "sektor": "hortikultura_premium",
+        "suitability_score": 82,
+        "urgency_score": 74,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Permintaan sayuran premium organik Jakarta-Medan meningkat 34% YoY. Harga lahan masih kompetitif vs Lembang (3x lebih murah/m²).",
+        "cost_of_delay_rp_bulan_ha": 14000000,
+        "aksi": "Identifikasi lahan minimal 10 ha dengan irigasi dan jalan produksi memadai di zona Kel. Raya."
+      },
+      {
+        "sektor": "land_banking_pretol",
+        "suitability_score": 79,
+        "urgency_score": 84,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Fase pre-tol: window terbaik untuk land banking sebelum apresiasi akselerasi. Historical: Puncak (Bogor) naik 4x pasca-tol Cipularang (2005).",
+        "cost_of_delay_rp_bulan_ha": 18500000,
+        "aksi": "Porsi 60% anggaran untuk kavling strategis koridor tol. Holding period 5 tahun, exit 2031-2032 post-peak infrastructure."
+      },
+      {
+        "sektor": "eco_lodge_premium",
+        "suitability_score": 76,
+        "urgency_score": 68,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Pasar eco-lodge premium masih berkembang — permintaan solid tapi persaingan rendah. Entry dalam 18 bulan masih kompetitif.",
+        "cost_of_delay_rp_bulan_ha": 9000000,
+        "aksi": "Studi tapak 3-5 ha di area perbukitan dengan view ke Gunung Sinabung. Konsultasi IMB dan izin usaha pariwisata terlebih dahulu."
+      },
+      {
+        "sektor": "properti_komersial",
+        "suitability_score": 68,
+        "urgency_score": 58,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Permintaan properti komersial (hotel, ruko) meningkat tetapi pasokan juga bertumbuh. Risiko oversupply perlu dimonitor.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Lakukan studi kelayakan pasar properti komersial sebelum komitmen. Pantau pipeline hotel bintang tiga yang masuk proses perizinan."
+      },
+      {
+        "sektor": "industrial_estate",
+        "suitability_score": 42,
+        "urgency_score": 35,
+        "urgensi": "JANGKA_PANJANG",
+        "alasan_timing": "Infrastruktur industrial belum mendukung — tidak ada kawasan industri eksisting, akses logistik berat terbatas. Potensi jangka panjang pasca-tol.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Pertimbangkan hanya jika ada insentif regulasi KPBU atau KEK. Monitor RPJMD Kab. Karo 2026-2031."
+      }
+    ],
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "sektor_aktif": "agribisnis",
+    "recommendations": [
+      {
+        "sektor": "wisata_alam_premium",
+        "suitability_score": 84,
+        "urgency_score": 76,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Kawah Putih dan Ranca Upas menarik 1.2 juta wisatawan 2025 — akses jalan baru Q2 2027 akan mempercepat apresiasi.",
+        "cost_of_delay_rp_bulan_ha": 16000000,
+        "aksi": "Fokus pada kavling 3-8 ha di radius 2km dari Kawah Putih untuk glamping atau eco-resort premium."
+      },
+      {
+        "sektor": "hortikultura_premium",
+        "suitability_score": 82,
+        "urgency_score": 72,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Ciwidey adalah produsen strawberry premium terbesar Jawa Barat. Permintaan konsumsi langsung dan agrowisata strawberry meningkat.",
+        "cost_of_delay_rp_bulan_ha": 12000000,
+        "aksi": "Akuisisi lahan kebun strawberry eksisting atau lahan clean untuk pengembangan integrated farming tourism."
+      },
+      {
+        "sektor": "land_banking",
+        "suitability_score": 76,
+        "urgency_score": 69,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Apresiasi 18.7%/yr tertinggi di sample — harga masih kompetitif (185k Rp/m²). Pipeline jalan wisata mendukung.",
+        "cost_of_delay_rp_bulan_ha": 10000000,
+        "aksi": "Entry sebelum jalan akses Kawah Putih selesai. Holding period 3-4 tahun, exit saat infrastruktur selesai."
+      },
+      {
+        "sektor": "agribisnis_organik",
+        "suitability_score": 71,
+        "urgency_score": 62,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Sertifikasi organik membutuhkan 3 tahun — mulai sekarang optimal untuk entry pasar 2029.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Mulai proses konversi organik bersertifikat LSPO Indonesia. Partner dengan off-taker premium Jakarta (Sayurbox, Ranch Market)."
+      }
+    ],
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204030,
+    "sektor_aktif": "agribisnis",
+    "recommendations": [
+      {
+        "sektor": "hortikultura_sayuran",
+        "suitability_score": 74,
+        "urgency_score": 65,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Pacet memasok sayuran ke pasar Bandung dan Jakarta — permintaan stabil. Harga lahan terendah di sample (165k/m²) = margin lebih baik.",
+        "cost_of_delay_rp_bulan_ha": 8000000,
+        "aksi": "Lahan 5-15 ha untuk hortikultura intensif. Akses ke Pasar Induk Caringin Bandung dalam 2 jam."
+      },
+      {
+        "sektor": "agrowisata",
+        "suitability_score": 68,
+        "urgency_score": 55,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Agrowisata Pacet masih berkembang — potensi ada tapi infrastruktur wisata belum optimal.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Kombinasi kebun produksi + area wisata. Investasi infrastruktur internal (jalan kebun, gazebo) diperlukan."
+      },
+      {
+        "sektor": "land_banking",
+        "suitability_score": 58,
+        "urgency_score": 42,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Apresiasi 7.3%/yr — positif tapi di bawah rata-rata kawasan. Kecocokan untuk investor konservatif dengan modal terbatas.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Hanya jika ada rencana infrastruktur baru dalam RPJMD. Monitor proyek jalan tol Cisumdawu ekstensi."
+      }
+    ],
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1212140,
+    "sektor_aktif": "agribisnis",
+    "recommendations": [
+      {
+        "sektor": "pariwisata_danau",
+        "suitability_score": 72,
+        "urgency_score": 66,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Danau Toba sebagai kawasan wisata prioritas nasional (DPSP) — investasi pemerintah masif. Harga sudah premium (580k Rp/m²).",
+        "cost_of_delay_rp_bulan_ha": 11000000,
+        "aksi": "Lahan premium tepi danau untuk resort boutique. Pastikan ITBIS (Izin Tetap Bangunan dan Instalasi Sementara) jelas."
+      },
+      {
+        "sektor": "agribisnis_kopi",
+        "suitability_score": 65,
+        "urgency_score": 58,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Kopi Arabika Toba memiliki GI (Indikasi Geografis) — permintaan specialty coffee global meningkat. Harga premium tapi pasar terbatas.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Lahan 10-20 ha di ketinggian 1400-1600m untuk kopi arabika. Partner dengan exportir specialty coffee."
+      },
+      {
+        "sektor": "land_banking",
+        "suitability_score": 54,
+        "urgency_score": 44,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Harga tertinggi di sample (580k/m²) — apresiasi 8.2%/yr tidak cukup mengompensasi premium harga entry.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Risk-adjusted return tidak optimal vs Berastagi atau Ciwidey. Pertimbangkan hanya untuk diversifikasi portofolio."
+      }
+    ],
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3308020,
+    "sektor_aktif": "pariwisata",
+    "recommendations": [
+      {
+        "sektor": "pariwisata_heritage",
+        "suitability_score": 88,
+        "urgency_score": 82,
+        "urgensi": "SEGERA",
+        "alasan_timing": "Borobudur sebagai warisan UNESCO + DPSP prioritas pemerintah. Infrastruktur akses diperbaiki besar-besaran 2025-2027.",
+        "cost_of_delay_rp_bulan_ha": 28000000,
+        "aksi": "Kavling premium dalam radius 3km dari Borobudur untuk boutique hotel atau villa premium. Pastikan zona RTRW sesuai."
+      },
+      {
+        "sektor": "agrowisata",
+        "suitability_score": 74,
+        "urgency_score": 68,
+        "urgensi": "TERBUKA",
+        "alasan_timing": "Kombinasi pertanian organik + wisata edukasi populer di segmen wisatawan domestik premium.",
+        "cost_of_delay_rp_bulan_ha": null,
+        "aksi": "Pertanian tematik (padi organik, jamu, kopi) yang dapat dikombinasi dengan tur wisata Borobudur."
+      }
+    ],
+    "last_refreshed_at": "2026-05-06T03:00:00Z"
+  }
+]

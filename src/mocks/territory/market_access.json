@@ -1,0 +1,230 @@
+[
+  {
+    "wilayah_id": 3204170,
+    "market_access_score": 64,
+    "score_breakdown": {
+      "pelabuhan": 48,
+      "bandara": 56,
+      "pasar_induk": 78,
+      "jalan_nasional": 76,
+      "kondisi_jalan": 68
+    },
+    "bottleneck_utama": "Akses utama Ciwidey bergantung pada koridor Soreang-Ciwidey yang padat saat akhir pekan; rute pelabuhan dan bandara masih membutuhkan koneksi tol jarak jauh.",
+    "destinations": [
+      {
+        "tipe": "pelabuhan_export",
+        "nama": "Pelabuhan Patimban",
+        "lat": -6.2353,
+        "lng": 107.9043,
+        "jarak_km": 182,
+        "waktu_menit": 240,
+        "kondisi_jalan": "tol_parsial",
+        "kondisi_jalan_label": "Tol parsial",
+        "cost_per_ton_rp": 1450000,
+        "route_geojson_path": "src/mocks/maps/routes/3204170.geojson"
+      },
+      {
+        "tipe": "bandara_internasional",
+        "nama": "Bandara Internasional Kertajati",
+        "lat": -6.6489,
+        "lng": 108.1667,
+        "jarak_km": 158,
+        "waktu_menit": 210,
+        "kondisi_jalan": "tol_parsial",
+        "kondisi_jalan_label": "Tol parsial",
+        "cost_per_ton_rp": 1200000,
+        "route_geojson_path": "src/mocks/maps/routes/3204170.geojson"
+      },
+      {
+        "tipe": "pasar_induk",
+        "nama": "Pasar Induk Gedebage",
+        "lat": -6.9362,
+        "lng": 107.6912,
+        "jarak_km": 46,
+        "waktu_menit": 80,
+        "kondisi_jalan": "aspal_berbukit",
+        "kondisi_jalan_label": "Aspal, berbukit",
+        "cost_per_ton_rp": 420000,
+        "route_geojson_path": "src/mocks/maps/routes/3204170.geojson"
+      },
+      {
+        "tipe": "ibukota_provinsi",
+        "nama": "Kota Bandung",
+        "lat": -6.9175,
+        "lng": 107.6191,
+        "jarak_km": 42,
+        "waktu_menit": 75,
+        "kondisi_jalan": "aspal_berbukit",
+        "kondisi_jalan_label": "Aspal, berbukit",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/3204170.geojson"
+      },
+      {
+        "tipe": "jalan_nasional",
+        "nama": "Jalan Nasional Soreang-Ciwidey",
+        "lat": -7.0375,
+        "lng": 107.5181,
+        "jarak_km": 8,
+        "waktu_menit": 14,
+        "kondisi_jalan": "aspal_baik",
+        "kondisi_jalan_label": "Aspal baik",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/3204170.geojson"
+      }
+    ],
+    "route_geojson_path": "src/mocks/maps/routes/3204170.geojson",
+    "last_computed_at": "2026-05-04T22:15:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "market_access_score": 82,
+    "score_breakdown": {
+      "pelabuhan": 86,
+      "bandara": 92,
+      "pasar_induk": 82,
+      "jalan_nasional": 85,
+      "kondisi_jalan": 72
+    },
+    "bottleneck_utama": "Jarak ke bandara dan pelabuhan sangat dekat, tetapi waktu tempuh mudah melonjak karena kemacetan Sunset Road, akses pantai, dan jam bongkar muat hotel-restoran.",
+    "destinations": [
+      {
+        "tipe": "pelabuhan_export",
+        "nama": "Pelabuhan Benoa",
+        "lat": -8.7429,
+        "lng": 115.2171,
+        "jarak_km": 11,
+        "waktu_menit": 26,
+        "kondisi_jalan": "aspal_perkotaan",
+        "kondisi_jalan_label": "Aspal perkotaan padat",
+        "cost_per_ton_rp": 180000,
+        "route_geojson_path": "src/mocks/maps/routes/5103060.geojson"
+      },
+      {
+        "tipe": "bandara_internasional",
+        "nama": "Bandara Internasional I Gusti Ngurah Rai",
+        "lat": -8.7482,
+        "lng": 115.1673,
+        "jarak_km": 9,
+        "waktu_menit": 22,
+        "kondisi_jalan": "aspal_perkotaan",
+        "kondisi_jalan_label": "Aspal perkotaan padat",
+        "cost_per_ton_rp": 150000,
+        "route_geojson_path": "src/mocks/maps/routes/5103060.geojson"
+      },
+      {
+        "tipe": "pasar_induk",
+        "nama": "Pasar Badung Denpasar",
+        "lat": -8.6528,
+        "lng": 115.2125,
+        "jarak_km": 8,
+        "waktu_menit": 24,
+        "kondisi_jalan": "aspal_perkotaan",
+        "kondisi_jalan_label": "Aspal perkotaan padat",
+        "cost_per_ton_rp": 120000,
+        "route_geojson_path": "src/mocks/maps/routes/5103060.geojson"
+      },
+      {
+        "tipe": "ibukota_provinsi",
+        "nama": "Kota Denpasar",
+        "lat": -8.6705,
+        "lng": 115.2126,
+        "jarak_km": 9,
+        "waktu_menit": 25,
+        "kondisi_jalan": "aspal_perkotaan",
+        "kondisi_jalan_label": "Aspal perkotaan padat",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/5103060.geojson"
+      },
+      {
+        "tipe": "jalan_nasional",
+        "nama": "Koridor Sunset Road",
+        "lat": -8.6887,
+        "lng": 115.1808,
+        "jarak_km": 2,
+        "waktu_menit": 8,
+        "kondisi_jalan": "aspal_perkotaan",
+        "kondisi_jalan_label": "Aspal perkotaan padat",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/5103060.geojson"
+      }
+    ],
+    "route_geojson_path": "src/mocks/maps/routes/5103060.geojson",
+    "last_computed_at": "2026-05-04T22:15:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "market_access_score": 64,
+    "score_breakdown": {
+      "pelabuhan": 58,
+      "bandara": 55,
+      "pasar_induk": 72,
+      "jalan_nasional": 95,
+      "kondisi_jalan": 60
+    },
+    "bottleneck_utama": "Jalan Berastagi-Medan berliku, truk besar terbatas saat hujan deras, dan waktu tempuh menuju Belawan/Kualanamu sensitif terhadap kepadatan Medan.",
+    "destinations": [
+      {
+        "tipe": "pelabuhan_export",
+        "nama": "Belawan, Medan",
+        "lat": 3.7841,
+        "lng": 98.6888,
+        "jarak_km": 84,
+        "waktu_menit": 135,
+        "kondisi_jalan": "tol_parsial",
+        "kondisi_jalan_label": "Tol parsial",
+        "cost_per_ton_rp": 800000,
+        "route_geojson_path": "src/mocks/maps/routes/1206090.geojson"
+      },
+      {
+        "tipe": "bandara_internasional",
+        "nama": "Kualanamu",
+        "lat": 3.6422,
+        "lng": 98.8853,
+        "jarak_km": 96,
+        "waktu_menit": 150,
+        "kondisi_jalan": "tol_parsial",
+        "kondisi_jalan_label": "Tol parsial",
+        "cost_per_ton_rp": 950000,
+        "route_geojson_path": "src/mocks/maps/routes/1206090.geojson"
+      },
+      {
+        "tipe": "pasar_induk",
+        "nama": "Pusat Pasar Medan",
+        "lat": 3.5896,
+        "lng": 98.6815,
+        "jarak_km": 78,
+        "waktu_menit": 125,
+        "kondisi_jalan": "aspal_berbukit",
+        "kondisi_jalan_label": "Aspal, berbukit",
+        "cost_per_ton_rp": 600000,
+        "route_geojson_path": "src/mocks/maps/routes/1206090.geojson"
+      },
+      {
+        "tipe": "ibukota_provinsi",
+        "nama": "Medan",
+        "lat": 3.5952,
+        "lng": 98.6722,
+        "jarak_km": 78,
+        "waktu_menit": 125,
+        "kondisi_jalan": "aspal_berbukit",
+        "kondisi_jalan_label": "Aspal, berbukit",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/1206090.geojson"
+      },
+      {
+        "tipe": "jalan_nasional",
+        "nama": "Jln. Lintas Sumatera (junction Berastagi)",
+        "lat": 3.1968,
+        "lng": 98.5095,
+        "jarak_km": 0,
+        "waktu_menit": 0,
+        "kondisi_jalan": "aspal_baik",
+        "kondisi_jalan_label": "Aspal baik",
+        "cost_per_ton_rp": null,
+        "route_geojson_path": "src/mocks/maps/routes/1206090.geojson"
+      }
+    ],
+    "route_geojson_path": "src/mocks/maps/routes/1206090.geojson",
+    "last_computed_at": "2026-05-04T22:15:00Z"
+  }
+]

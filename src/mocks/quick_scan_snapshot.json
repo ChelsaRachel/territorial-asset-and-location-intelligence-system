@@ -1,0 +1,151 @@
+[
+  {
+    "wilayah_id": 3204170,
+    "profil_kode": "AGRO_DOMINANT",
+    "nama": "Kec. Ciwidey",
+    "kabupaten": "Kab. Bandung",
+    "provinsi": "Jawa Barat",
+    "lat": -7.08,
+    "lng": 107.42,
+    "karakter_singkat": "Dataran tinggi subur, basis kopi arabika premium",
+    "elevasi_meter": 1200,
+    "regulatory_flag": "BEBAS_INVESTASI",
+    "marker_color": "#2D6A4F",
+    "verdict_status": "LAYAK",
+    "verdict_score": 78,
+    "verdict_reason": "Basis agro kuat + pipeline infrastruktur tinggi",
+    "verdict_kondisi": [
+      "Verifikasi kondisi jalan ke fasilitas pengolahan",
+      "Konfirmasi offtaker sebelum komitmen"
+    ],
+    "peluang_top3": [
+      {
+        "sektor": "Kopi Arabika",
+        "urgensi": "SEGERA",
+        "detail": "Gap +140 ton/bln, Rp 90rb/kg, permintaan premium nasional tinggi"
+      },
+      {
+        "sektor": "Agrowisata",
+        "urgensi": "TERBUKA",
+        "detail": "Emerging +168% vs 2 tahun lalu, belum ada operator premium"
+      },
+      {
+        "sektor": "Land Banking",
+        "urgensi": "TERBUKA",
+        "detail": "Apresiasi +18,7%/thn — sebelum tol Soreang–Ciwidey selesai"
+      }
+    ],
+    "sinyal_kunci": [
+      { "label": "Land Suitability", "value": 82, "color": "green" },
+      { "label": "Market Access", "value": 64, "color": "amber" },
+      { "label": "Demand Absorpsi", "value": 88, "color": "green" },
+      { "label": "Growth Projection", "value": 71, "color": "green" }
+    ],
+    "harga_window": {
+      "median_rp_per_m2": 185000,
+      "apresiasi_persen_per_tahun": 18.7,
+      "sisa_window_bulan": 12,
+      "window_reason": "sebelum tol selesai"
+    },
+    "last_updated": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "profil_kode": "HOSPITALITY_DOMINANT",
+    "nama": "Kel. Seminyak",
+    "kabupaten": "Kab. Badung",
+    "provinsi": "Bali",
+    "lat": -8.6905,
+    "lng": 115.1729,
+    "karakter_singkat": "Destinasi wisata premium internasional",
+    "elevasi_meter": 50,
+    "regulatory_flag": "KONFLIK_REGULASI",
+    "marker_color": "#B45309",
+    "verdict_status": "LAYAK_BERSYARAT",
+    "verdict_score": 72.5,
+    "verdict_reason": "Infrastruktur premium & pasar premium terkuat, tapi harga lahan tertinggi + over-supply risiko nyata",
+    "verdict_kondisi": [
+      "Verifikasi status regulasi zonasi pariwisata (KONFLIK_REGULASI aktif)",
+      "Validasi pipeline komitmen supply sebelum entry — risiko over-supply residensial 2024-2026"
+    ],
+    "peluang_top3": [
+      {
+        "sektor": "Resort Boutique Premium",
+        "urgensi": "TERBUKA",
+        "detail": "Permintaan segmen $300+/malam masih under-served pasca konsolidasi 2024"
+      },
+      {
+        "sektor": "Co-Living Jangka Panjang",
+        "urgensi": "TERBUKA",
+        "detail": "Digital nomad residence dengan kontrak 3–12 bulan, gap 1.200 unit vs demand"
+      },
+      {
+        "sektor": "Sport Tourism Surf Hub",
+        "urgensi": "JANGKA_PANJANG",
+        "detail": "Infrastruktur base memadai, permintaan domestik tumbuh 22%/thn"
+      }
+    ],
+    "sinyal_kunci": [
+      { "label": "Land Suitability Hosp", "value": 88, "color": "green" },
+      { "label": "Market Access", "value": 82, "color": "green" },
+      { "label": "Infrastructure Index", "value": 98, "color": "green" },
+      { "label": "Growth Projection", "value": 62, "color": "amber" }
+    ],
+    "harga_window": {
+      "median_rp_per_m2": 28500000,
+      "apresiasi_persen_per_tahun": 6.2,
+      "sisa_window_bulan": 24,
+      "window_reason": "stabilisasi pasca over-supply 2024"
+    },
+    "last_updated": "2026-05-06T03:00:00Z"
+  },
+  {
+    "wilayah_id": 1206090,
+    "profil_kode": "AGRO_HOSP",
+    "nama": "Kec. Berastagi",
+    "kabupaten": "Kab. Karo",
+    "provinsi": "Sumatera Utara",
+    "lat": 3.1968,
+    "lng": 98.5095,
+    "karakter_singkat": "Dataran tinggi vulkanik subur, hortikultura + eco-tourism",
+    "elevasi_meter": 1300,
+    "regulatory_flag": "BEBAS_INVESTASI",
+    "marker_color": "#1E40AF",
+    "verdict_status": "LAYAK",
+    "verdict_score": 80.5,
+    "verdict_reason": "Asymmetric upside terbesar dari 3 profil + harga undervalued",
+    "verdict_kondisi": [
+      "Koordinasi dengan Pemda Karo untuk kepastian RDTR (belum tersedia digital)",
+      "Antisipasi keterbatasan cold storage — bangun capacity sebelum scale-up produksi"
+    ],
+    "peluang_top3": [
+      {
+        "sektor": "Agrowisata",
+        "urgensi": "SEGERA",
+        "detail": "Gap +960/hari, Rev/Cost 2.12x, pipeline tol 2027 accelerate"
+      },
+      {
+        "sektor": "Hortikultura Premium",
+        "urgensi": "SEGERA",
+        "detail": "Gap +560-700 ton/bln (stroberi & markisa), harga premium ekspor"
+      },
+      {
+        "sektor": "Land Banking Pre-Tol",
+        "urgensi": "TERBUKA",
+        "detail": "Proyeksi +180-320% pasca Tol Medan–Berastagi 2027-Q4"
+      }
+    ],
+    "sinyal_kunci": [
+      { "label": "Land Suitability", "value": 82, "color": "green" },
+      { "label": "Market Access", "value": 64, "color": "amber" },
+      { "label": "Demand Absorpsi", "value": 88, "color": "green" },
+      { "label": "Growth Projection", "value": 81, "color": "green" }
+    ],
+    "harga_window": {
+      "median_rp_per_m2": 420000,
+      "apresiasi_persen_per_tahun": 15.4,
+      "sisa_window_bulan": 18
+    },
+    "last_updated": "2026-05-06T03:00:00Z"
+  }
+]

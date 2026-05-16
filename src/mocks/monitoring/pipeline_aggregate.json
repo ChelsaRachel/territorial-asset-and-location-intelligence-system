@@ -1,0 +1,68 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "total_nilai_rp_juta": 470,
+    "jumlah_investor": 4,
+    "sektor_dominan": "hospitality",
+    "gap_confirmation": "terkonfirmasi",
+    "analisis_text": "Pipeline investasi Kec. Berastagi mengkonfirmasi gap pasokan hospitality yang teridentifikasi pada analisis Territory Intelligence. Dari total Rp 470 Miliar pipeline, 73% terkonsentrasi di sektor hospitality — konsisten dengan proyeksi kunjungan wisata +168% geotag TikTok dan pembangunan Tol Medan-Berastagi. Distribusi status: 18% operasional, 26% izin diterbitkan, 25% dalam proses, 31% tertahan (mayoritas karena RDTR digital belum terbit). Begitu RDTR terbit Q4 2026, diperkirakan Rp 146M akan segera bergerak ke fase izin.",
+    "status_distribution_pct": {
+      "operasional": 18,
+      "izin_diterbitkan": 26,
+      "dalam_proses": 25,
+      "tertahan": 31
+    },
+    "sektor_distribution_pct": {
+      "hospitality": 73,
+      "properti": 26,
+      "agribisnis": 0,
+      "pariwisata": 0
+    },
+    "hambatan_utama": "Penerbitan RDTR digital Kab. Karo — perda masih dalam harmonisasi DPRD",
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "total_nilai_rp_juta": 360,
+    "jumlah_investor": 4,
+    "sektor_dominan": "hospitality",
+    "gap_confirmation": "terkonfirmasi",
+    "analisis_text": "Pipeline investasi Kec. Ciwidey mengkonfirmasi permintaan agrowisata yang meningkat post-pandemi. Total Rp 360 Miliar dengan komposisi 37% hospitality, 37% agribisnis, dan 26% properti. Status 22% operasional, 37% izin diterbitkan, 16% dalam proses, 25% tertahan karena amdal. Aksesibilitas dari Bandung akan meningkat signifikan setelah Tol Soroja Extension selesai Q2 2027, yang diperkirakan mendorong 40% peningkatan kunjungan.",
+    "status_distribution_pct": {
+      "operasional": 22,
+      "izin_diterbitkan": 37,
+      "dalam_proses": 16,
+      "tertahan": 25
+    },
+    "sektor_distribution_pct": {
+      "hospitality": 37,
+      "properti": 26,
+      "agribisnis": 37,
+      "pariwisata": 0
+    },
+    "hambatan_utama": "Persetujuan AMDAL dari Dinas Lingkungan Hidup Jawa Barat",
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "total_nilai_rp_juta": 588,
+    "jumlah_investor": 4,
+    "sektor_dominan": "hospitality",
+    "gap_confirmation": "hambatan_non_data",
+    "analisis_text": "Pipeline investasi Kel. Seminyak didominasi hospitality premium (73%) dan pariwisata kreatif (12%). Pasar Seminyak mature dengan occupancy hotel rata-rata 78%. Gap supply bukan dari kekurangan investasi melainkan dari hambatan regulasi (HGBU) dan saturasi lokasi premium. Analisis menunjukkan potensi pertumbuhan terfokus pada segmen boutique dan digital nomad — bukan ekspansi massal.",
+    "status_distribution_pct": {
+      "operasional": 42,
+      "izin_diterbitkan": 31,
+      "dalam_proses": 12,
+      "tertahan": 16
+    },
+    "sektor_distribution_pct": {
+      "hospitality": 73,
+      "properti": 16,
+      "agribisnis": 0,
+      "pariwisata": 12
+    },
+    "hambatan_utama": "Klarifikasi status HGBU dari Kanwil ATR/BPN Bali",
+    "last_refreshed_at": "2026-05-05T03:00:00Z"
+  }
+]

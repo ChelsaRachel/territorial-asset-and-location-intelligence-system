@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_routes_3204170",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pelabuhan_export",
+        "nama": "Pelabuhan Patimban",
+        "jarak_km": 182,
+        "waktu_menit": 240,
+        "color": "#1E40AF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.42, -7.08],
+          [107.544, -6.972],
+          [107.6191, -6.9175],
+          [107.756, -6.662],
+          [107.9043, -6.2353]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "bandara_internasional",
+        "nama": "Bandara Internasional Kertajati",
+        "jarak_km": 158,
+        "waktu_menit": 210,
+        "color": "#40916C"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.42, -7.08],
+          [107.544, -6.972],
+          [107.756, -6.662],
+          [108.019, -6.68],
+          [108.1667, -6.6489]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "pasar_induk",
+        "nama": "Pasar Induk Gedebage",
+        "jarak_km": 46,
+        "waktu_menit": 80,
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.42, -7.08],
+          [107.527, -7.025],
+          [107.6191, -6.9175],
+          [107.6912, -6.9362]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "ibukota_provinsi",
+        "nama": "Kota Bandung",
+        "jarak_km": 42,
+        "waktu_menit": 75,
+        "color": "#57534E"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.42, -7.08],
+          [107.527, -7.025],
+          [107.595, -6.964],
+          [107.6191, -6.9175]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipe": "jalan_nasional",
+        "nama": "Jalan Nasional Soreang-Ciwidey",
+        "jarak_km": 8,
+        "waktu_menit": 14,
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.42, -7.08],
+          [107.467, -7.056],
+          [107.5181, -7.0375]
+        ]
+      }
+    }
+  ]
+}

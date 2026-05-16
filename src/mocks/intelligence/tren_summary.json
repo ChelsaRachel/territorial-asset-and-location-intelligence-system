@@ -1,0 +1,80 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "tren_label": "Membaik",
+    "tren_score": 76,
+    "skenario_proyeksi": [
+      {
+        "skenario": "normal",
+        "proyeksi_growth_pct": 6.2,
+        "probabilitas_pct": 65,
+        "saran": "Lanjutkan rencana tanam sesuai jadwal musim. Stroberi dan Kopi Arabika dalam window optimal."
+      },
+      {
+        "skenario": "elnino_lemah",
+        "proyeksi_growth_pct": 1.8,
+        "probabilitas_pct": 25,
+        "saran": "Aktifkan irigasi cadangan mulai September. Monitor curah hujan mingguan via BMKG."
+      },
+      {
+        "skenario": "elnino_kuat",
+        "proyeksi_growth_pct": -8.5,
+        "probabilitas_pct": 10,
+        "saran": "Alokasikan 15% modal untuk asuransi cuaca komoditas. Tunda ekspansi lahan baru hingga Q2 2027."
+      }
+    ],
+    "last_refreshed_at": "2026-05-05T06:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "tren_label": "Stabil",
+    "tren_score": 62,
+    "skenario_proyeksi": [
+      {
+        "skenario": "normal",
+        "proyeksi_growth_pct": 4.8,
+        "probabilitas_pct": 60,
+        "saran": "Kondisi stabil mendukung pengembangan agrowisata. Fokus pada diversifikasi ke Stroberi premium."
+      },
+      {
+        "skenario": "elnino_lemah",
+        "proyeksi_growth_pct": 0.9,
+        "probabilitas_pct": 28,
+        "saran": "Siapkan sistem drip irrigation untuk kebun stroberi. Pertimbangkan tanaman tahan kekeringan sebagai buffer."
+      },
+      {
+        "skenario": "elnino_kuat",
+        "proyeksi_growth_pct": -6.2,
+        "probabilitas_pct": 12,
+        "saran": "Prioritaskan komoditas teh yang lebih tahan kekeringan. Tunda investasi perluasan kebun baru."
+      }
+    ],
+    "last_refreshed_at": "2026-05-05T06:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "tren_label": "Stabil",
+    "tren_score": 55,
+    "skenario_proyeksi": [
+      {
+        "skenario": "normal",
+        "proyeksi_growth_pct": 3.2,
+        "probabilitas_pct": 62,
+        "saran": "Pariwisata Bali terus pulih. Fokus pengembangan villa dan beach club premium yang belum jenuh."
+      },
+      {
+        "skenario": "elnino_lemah",
+        "proyeksi_growth_pct": 1.1,
+        "probabilitas_pct": 27,
+        "saran": "Kekeringan ringan tidak berdampak signifikan pada pariwisata. Waspadai pasokan air bersih vila."
+      },
+      {
+        "skenario": "elnino_kuat",
+        "proyeksi_growth_pct": -4.0,
+        "probabilitas_pct": 11,
+        "saran": "Kekeringan parah dapat mengurangi daya tarik wisata alam. Diversifikasi ke indoor experience."
+      }
+    ],
+    "last_refreshed_at": "2026-05-05T06:00:00Z"
+  }
+]

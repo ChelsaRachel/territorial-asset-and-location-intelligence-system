@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_zoning_3204170",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "pertanian",
+        "label": "RTRW Pertanian dan Perkebunan",
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.367, -7.104],
+            [107.423, -7.112],
+            [107.435, -7.061],
+            [107.381, -7.051],
+            [107.367, -7.104]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "permukiman",
+        "label": "RTRW Permukiman Ciwidey",
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.401, -7.096],
+            [107.438, -7.095],
+            [107.438, -7.066],
+            [107.405, -7.064],
+            [107.401, -7.096]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "konservasi",
+        "label": "RTRW Konservasi Lereng",
+        "color": "#1B4332"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.346, -7.086],
+            [107.384, -7.102],
+            [107.382, -7.137],
+            [107.335, -7.129],
+            [107.346, -7.086]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "actual_landcover",
+        "landcover": "kebun",
+        "label": "Aktual Kebun dan Hortikultura",
+        "color": "#74C69D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.359, -7.109],
+            [107.418, -7.117],
+            [107.431, -7.074],
+            [107.367, -7.061],
+            [107.359, -7.109]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "actual_landcover",
+        "landcover": "sawah",
+        "label": "Aktual Sawah",
+        "color": "#A7C957"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.413, -7.096],
+            [107.449, -7.094],
+            [107.449, -7.067],
+            [107.418, -7.066],
+            [107.413, -7.096]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "kawasan_lindung",
+        "protection": "konservasi_indikatif",
+        "label": "Buffer Konservasi Indikatif",
+        "color": "#B42318"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.336, -7.121],
+            [107.371, -7.133],
+            [107.364, -7.152],
+            [107.326, -7.142],
+            [107.336, -7.121]
+          ]
+        ]
+      }
+    }
+  ]
+}

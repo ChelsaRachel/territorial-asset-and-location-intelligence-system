@@ -1,0 +1,29 @@
+[
+  {
+    "wilayah_id": 3204170,
+    "profil_kode": "AGRO_DOMINANT",
+    "marker_color": "#2D6A4F",
+    "marker_radius": 14,
+    "is_default": true,
+    "karakter_singkat": "Dataran tinggi subur, basis kopi arabika premium",
+    "elevasi_meter": 1200
+  },
+  {
+    "wilayah_id": 5103060,
+    "profil_kode": "HOSPITALITY_DOMINANT",
+    "marker_color": "#B45309",
+    "marker_radius": 14,
+    "is_default": false,
+    "karakter_singkat": "Destinasi wisata premium internasional",
+    "elevasi_meter": 50
+  },
+  {
+    "wilayah_id": 1206090,
+    "profil_kode": "AGRO_HOSP",
+    "marker_color": "#1E40AF",
+    "marker_radius": 14,
+    "is_default": false,
+    "karakter_singkat": "Dataran tinggi vulkanik subur, hortikultura + eco-tourism",
+    "elevasi_meter": 1300
+  }
+]

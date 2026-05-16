@@ -1,0 +1,60 @@
+[
+  {
+    "wilayah_id": 1206090,
+    "median_rp_per_m2": 420000,
+    "appreciation_yoy_pct": 15.4,
+    "speculation_ratio": 1.4,
+    "speculation_status": "sehat",
+    "harga_vs_njop": [
+      { "kelurahan": "Kel. Gundaling I", "njop_rp_per_m2": 180000, "pasar_rp_per_m2": 480000, "selisih_pct": 167 },
+      { "kelurahan": "Kel. Gundaling II", "njop_rp_per_m2": 155000, "pasar_rp_per_m2": 410000, "selisih_pct": 165 },
+      { "kelurahan": "Kel. Sempajaya", "njop_rp_per_m2": 195000, "pasar_rp_per_m2": 520000, "selisih_pct": 167 },
+      { "kelurahan": "Kel. Raya", "njop_rp_per_m2": 160000, "pasar_rp_per_m2": 395000, "selisih_pct": 147 }
+    ],
+    "proyeksi": {
+      "6_bulan": { "konservatif": [450000, 475000], "optimistis": [480000, 510000] },
+      "12_bulan": { "konservatif": [480000, 520000], "optimistis": [540000, 590000] },
+      "36_bulan": { "konservatif": [580000, 680000], "optimistis": [920000, 1180000] }
+    },
+    "timing_recommendation": "Entry sekarang optimal — sebelum Tol Medan-Berastagi selesai Q4 2027. Cost of Delay Rp 18,5 jt/bulan/ha. Apresiasi fundamental, bukan spekulatif (rasio 1,4x vs PDRB).",
+    "last_updated": "2026-05-05T22:00:00Z"
+  },
+  {
+    "wilayah_id": 3204170,
+    "median_rp_per_m2": 185000,
+    "appreciation_yoy_pct": 18.7,
+    "speculation_ratio": 1.8,
+    "speculation_status": "sehat",
+    "harga_vs_njop": [
+      { "kelurahan": "Kel. Ciwidey", "njop_rp_per_m2": 68000, "pasar_rp_per_m2": 195000, "selisih_pct": 187 },
+      { "kelurahan": "Kel. Panyocokan", "njop_rp_per_m2": 72000, "pasar_rp_per_m2": 175000, "selisih_pct": 143 },
+      { "kelurahan": "Kel. Lebakmuncang", "njop_rp_per_m2": 58000, "pasar_rp_per_m2": 165000, "selisih_pct": 184 }
+    ],
+    "proyeksi": {
+      "6_bulan": { "konservatif": [195000, 210000], "optimistis": [215000, 230000] },
+      "12_bulan": { "konservatif": [210000, 235000], "optimistis": [240000, 265000] },
+      "36_bulan": { "konservatif": [270000, 320000], "optimistis": [380000, 440000] }
+    },
+    "timing_recommendation": "Momentum positif didukung pipeline kawasan wisata. Entry Q3 2026 optimal sebelum proyek akses jalan Kawah Putih rampung. Apresiasi masih fundamental (rasio 1,8x).",
+    "last_updated": "2026-05-05T22:00:00Z"
+  },
+  {
+    "wilayah_id": 5103060,
+    "median_rp_per_m2": 28500000,
+    "appreciation_yoy_pct": 6.2,
+    "speculation_ratio": 0.9,
+    "speculation_status": "sehat",
+    "harga_vs_njop": [
+      { "kelurahan": "Kel. Seminyak", "njop_rp_per_m2": 12500000, "pasar_rp_per_m2": 28500000, "selisih_pct": 128 },
+      { "kelurahan": "Kel. Kerobokan Kelod", "njop_rp_per_m2": 9800000, "pasar_rp_per_m2": 24200000, "selisih_pct": 147 },
+      { "kelurahan": "Kel. Legian", "njop_rp_per_m2": 10200000, "pasar_rp_per_m2": 26800000, "selisih_pct": 163 }
+    ],
+    "proyeksi": {
+      "6_bulan": { "konservatif": [29500000, 30200000], "optimistis": [30800000, 31500000] },
+      "12_bulan": { "konservatif": [30500000, 32000000], "optimistis": [32500000, 34500000] },
+      "36_bulan": { "konservatif": [34000000, 38000000], "optimistis": [40000000, 48000000] }
+    },
+    "timing_recommendation": "Pasar mature dan stabil dengan apresiasi moderat di bawah PDRB growth Badung. Entri jangka panjang (5+ tahun) di area Kerobokan masih layak. Hindari overexposure di Seminyak core (saturated).",
+    "last_updated": "2026-05-05T22:00:00Z"
+  }
+]

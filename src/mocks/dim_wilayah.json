@@ -1,0 +1,210 @@
+[
+  {
+    "wilayah_id": 1104030,
+    "nama": "Kec. Bebesen",
+    "kabupaten": "Kab. Aceh Tengah",
+    "provinsi": "Aceh",
+    "lat": 4.6253,
+    "lng": 96.8450
+  },
+  {
+    "wilayah_id": 1202090,
+    "nama": "Kec. Siborong-borong",
+    "kabupaten": "Kab. Tapanuli Utara",
+    "provinsi": "Sumatera Utara",
+    "lat": 2.2130,
+    "lng": 98.9762
+  },
+  {
+    "wilayah_id": 1206090,
+    "nama": "Kec. Berastagi",
+    "kabupaten": "Kab. Karo",
+    "provinsi": "Sumatera Utara",
+    "lat": 3.1968,
+    "lng": 98.5095
+  },
+  {
+    "wilayah_id": 1208260,
+    "nama": "Kec. Dolok Silau",
+    "kabupaten": "Kab. Simalungun",
+    "provinsi": "Sumatera Utara",
+    "lat": 3.0480,
+    "lng": 98.6915
+  },
+  {
+    "wilayah_id": 1212140,
+    "nama": "Kec. Toba",
+    "kabupaten": "Kab. Toba",
+    "provinsi": "Sumatera Utara",
+    "lat": 2.1500,
+    "lng": 99.1800
+  },
+  {
+    "wilayah_id": 1374020,
+    "nama": "Kec. Padang Panjang Barat",
+    "kabupaten": "Kota Padang Panjang",
+    "provinsi": "Sumatera Barat",
+    "lat": -0.4658,
+    "lng": 100.4052
+  },
+  {
+    "wilayah_id": 1375010,
+    "nama": "Kec. Guguk Panjang",
+    "kabupaten": "Kota Bukittinggi",
+    "provinsi": "Sumatera Barat",
+    "lat": -0.3054,
+    "lng": 100.3696
+  },
+  {
+    "wilayah_id": 1804040,
+    "nama": "Kec. Balik Bukit",
+    "kabupaten": "Kab. Lampung Barat",
+    "provinsi": "Lampung",
+    "lat": -5.0285,
+    "lng": 104.0615
+  },
+  {
+    "wilayah_id": 3203280,
+    "nama": "Kec. Cipanas",
+    "kabupaten": "Kab. Cianjur",
+    "provinsi": "Jawa Barat",
+    "lat": -6.7350,
+    "lng": 107.0420
+  },
+  {
+    "wilayah_id": 3204030,
+    "nama": "Kec. Pacet",
+    "kabupaten": "Kab. Bandung",
+    "provinsi": "Jawa Barat",
+    "lat": -7.1002,
+    "lng": 107.6962
+  },
+  {
+    "wilayah_id": 3204170,
+    "nama": "Kec. Ciwidey",
+    "kabupaten": "Kab. Bandung",
+    "provinsi": "Jawa Barat",
+    "lat": -7.08,
+    "lng": 107.42
+  },
+  {
+    "wilayah_id": 3217010,
+    "nama": "Kec. Lembang",
+    "kabupaten": "Kab. Bandung Barat",
+    "provinsi": "Jawa Barat",
+    "lat": -6.8111,
+    "lng": 107.6171
+  },
+  {
+    "wilayah_id": 3308020,
+    "nama": "Kec. Borobudur",
+    "kabupaten": "Kab. Magelang",
+    "provinsi": "Jawa Tengah",
+    "lat": -7.6074,
+    "lng": 110.2038
+  },
+  {
+    "wilayah_id": 3322010,
+    "nama": "Kec. Getasan",
+    "kabupaten": "Kab. Semarang",
+    "provinsi": "Jawa Tengah",
+    "lat": -7.3920,
+    "lng": 110.4220
+  },
+  {
+    "wilayah_id": 3402110,
+    "nama": "Kec. Dlingo",
+    "kabupaten": "Kab. Bantul",
+    "provinsi": "DI Yogyakarta",
+    "lat": -7.9170,
+    "lng": 110.4380
+  },
+  {
+    "wilayah_id": 3404170,
+    "nama": "Kec. Cangkringan",
+    "kabupaten": "Kab. Sleman",
+    "provinsi": "DI Yogyakarta",
+    "lat": -7.6641,
+    "lng": 110.4614
+  },
+  {
+    "wilayah_id": 3507070,
+    "nama": "Kec. Poncokusumo",
+    "kabupaten": "Kab. Malang",
+    "provinsi": "Jawa Timur",
+    "lat": -8.0100,
+    "lng": 112.8200
+  },
+  {
+    "wilayah_id": 3579030,
+    "nama": "Kec. Junrejo",
+    "kabupaten": "Kota Batu",
+    "provinsi": "Jawa Timur",
+    "lat": -7.8600,
+    "lng": 112.5500
+  },
+  {
+    "wilayah_id": 5102050,
+    "nama": "Kec. Tabanan",
+    "kabupaten": "Kab. Tabanan",
+    "provinsi": "Bali",
+    "lat": -8.5413,
+    "lng": 115.1252
+  },
+  {
+    "wilayah_id": 5103060,
+    "nama": "Kel. Seminyak",
+    "kabupaten": "Kab. Badung",
+    "provinsi": "Bali",
+    "lat": -8.6905,
+    "lng": 115.1729
+  },
+  {
+    "wilayah_id": 5104050,
+    "nama": "Kel. Ubud",
+    "kabupaten": "Kab. Gianyar",
+    "provinsi": "Bali",
+    "lat": -8.5084,
+    "lng": 115.2656
+  },
+  {
+    "wilayah_id": 5106040,
+    "nama": "Kec. Kintamani",
+    "kabupaten": "Kab. Bangli",
+    "provinsi": "Bali",
+    "lat": -8.2391,
+    "lng": 115.3250
+  },
+  {
+    "wilayah_id": 5203150,
+    "nama": "Kec. Sembalun",
+    "kabupaten": "Kab. Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat",
+    "lat": -8.3591,
+    "lng": 116.5255
+  },
+  {
+    "wilayah_id": 5315050,
+    "nama": "Kec. Komodo",
+    "kabupaten": "Kab. Manggarai Barat",
+    "provinsi": "Nusa Tenggara Timur",
+    "lat": -8.4538,
+    "lng": 119.8728
+  },
+  {
+    "wilayah_id": 7306040,
+    "nama": "Kec. Tinggimoncong",
+    "kabupaten": "Kab. Gowa",
+    "provinsi": "Sulawesi Selatan",
+    "lat": -5.2476,
+    "lng": 119.8568
+  },
+  {
+    "wilayah_id": 7326010,
+    "nama": "Kec. Rantepao",
+    "kabupaten": "Kab. Toraja Utara",
+    "provinsi": "Sulawesi Selatan",
+    "lat": -2.9697,
+    "lng": 119.8983
+  }
+]

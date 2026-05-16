@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "name": "talis_zoning_5103060",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "pariwisata",
+        "label": "RDTR Pariwisata Intensif",
+        "color": "#52B788"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.154, -8.700],
+            [115.181, -8.700],
+            [115.183, -8.679],
+            [115.156, -8.678],
+            [115.154, -8.700]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "permukiman",
+        "label": "RDTR Permukiman Campuran",
+        "color": "#B45309"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.174, -8.699],
+            [115.197, -8.696],
+            [115.197, -8.676],
+            [115.177, -8.678],
+            [115.174, -8.699]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "rtrw",
+        "peruntukan": "sempadan",
+        "label": "Sempadan Pantai",
+        "color": "#1E40AF"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.148, -8.702],
+            [115.157, -8.701],
+            [115.159, -8.676],
+            [115.149, -8.676],
+            [115.148, -8.702]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "actual_landcover",
+        "landcover": "terbangun_padat",
+        "label": "Aktual Terbangun Padat",
+        "color": "#D97706"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.158, -8.701],
+            [115.196, -8.698],
+            [115.198, -8.676],
+            [115.16, -8.676],
+            [115.158, -8.701]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "layer": "kawasan_lindung",
+        "protection": "sempadan_pantai",
+        "label": "Buffer Sempadan Pantai",
+        "color": "#B42318"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [115.149, -8.702],
+            [115.154, -8.702],
+            [115.156, -8.676],
+            [115.15, -8.676],
+            [115.149, -8.702]
+          ]
+        ]
+      }
+    }
+  ]
+}
